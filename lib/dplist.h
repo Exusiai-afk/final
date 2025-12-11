@@ -1,5 +1,5 @@
 /**
- * \author {AUTHOR}
+ * \author {MINGHAO CHEN}
  */
 
 #ifndef _DPLIST_H_
