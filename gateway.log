@@ -600,3 +600,1189 @@
 599 Sat Dec 20 11:28:14 2025 Data insertion from sensor 21 succeeded
 600 Sat Dec 20 11:28:14 2025 Sensor node 15 reports it's too hot (avg temp = 22.18)
 601 Sat Dec 20 11:28:14 2025 Data insertion from sensor 15 succeeded
+602 Sat Dec 20 11:28:15 2025 Sensor node 37 reports it's too hot (avg temp = 23.01)
+603 Sat Dec 20 11:28:15 2025 Data insertion from sensor 37 succeeded
+604 Sat Dec 20 11:28:15 2025 Sensor node 15 reports it's too hot (avg temp = 22.10)
+605 Sat Dec 20 11:28:15 2025 Data insertion from sensor 15 succeeded
+606 Sat Dec 20 11:28:16 2025 Sensor node 15 reports it's too hot (avg temp = 22.06)
+607 Sat Dec 20 11:28:16 2025 Data insertion from sensor 15 succeeded
+608 Sat Dec 20 11:28:17 2025 Sensor node 21 reports it's too hot (avg temp = 23.53)
+609 Sat Dec 20 11:28:17 2025 Data insertion from sensor 21 succeeded
+610 Sat Dec 20 11:28:17 2025 Sensor node 37 reports it's too hot (avg temp = 23.06)
+611 Sat Dec 20 11:28:17 2025 Data insertion from sensor 37 succeeded
+612 Sat Dec 20 11:28:17 2025 Sensor node 15 reports it's too hot (avg temp = 22.05)
+613 Sat Dec 20 11:28:17 2025 Data insertion from sensor 15 succeeded
+614 Sat Dec 20 11:28:18 2025 Sensor node 15 reports it's too hot (avg temp = 22.06)
+615 Sat Dec 20 11:28:18 2025 Data insertion from sensor 15 succeeded
+616 Sat Dec 20 11:28:19 2025 Sensor node 37 reports it's too hot (avg temp = 23.14)
+617 Sat Dec 20 11:28:19 2025 Data insertion from sensor 37 succeeded
+618 Sat Dec 20 11:28:19 2025 Sensor node 15 reports it's too hot (avg temp = 22.05)
+619 Sat Dec 20 11:28:19 2025 Data insertion from sensor 15 succeeded
+620 Sat Dec 20 11:28:20 2025 Sensor node 21 reports it's too hot (avg temp = 23.49)
+621 Sat Dec 20 11:28:20 2025 Data insertion from sensor 21 succeeded
+622 Sat Dec 20 11:28:20 2025 Sensor node 15 reports it's too hot (avg temp = 22.03)
+623 Sat Dec 20 11:28:20 2025 Data insertion from sensor 15 succeeded
+624 Sat Dec 20 11:28:21 2025 Sensor node 37 reports it's too hot (avg temp = 23.22)
+625 Sat Dec 20 11:28:21 2025 Data insertion from sensor 37 succeeded
+626 Sat Dec 20 11:28:21 2025 Sensor node 15 reports it's too hot (avg temp = 21.94)
+627 Sat Dec 20 11:28:21 2025 Data insertion from sensor 15 succeeded
+628 Sat Dec 20 11:28:22 2025 Sensor node 15 reports it's too hot (avg temp = 21.88)
+629 Sat Dec 20 11:28:22 2025 Data insertion from sensor 15 succeeded
+630 Sat Dec 20 11:28:23 2025 Sensor node 21 reports it's too hot (avg temp = 23.48)
+631 Sat Dec 20 11:28:23 2025 Data insertion from sensor 21 succeeded
+632 Sat Dec 20 11:28:23 2025 Sensor node 37 reports it's too hot (avg temp = 23.25)
+633 Sat Dec 20 11:28:23 2025 Data insertion from sensor 37 succeeded
+634 Sat Dec 20 11:28:23 2025 Sensor node 15 reports it's too hot (avg temp = 21.81)
+635 Sat Dec 20 11:28:23 2025 Data insertion from sensor 15 succeeded
+636 Sat Dec 20 11:28:24 2025 Sensor node 15 reports it's too hot (avg temp = 21.69)
+637 Sat Dec 20 11:28:24 2025 Data insertion from sensor 15 succeeded
+638 Sat Dec 20 11:28:25 2025 Sensor node 37 reports it's too hot (avg temp = 23.26)
+639 Sat Dec 20 11:28:25 2025 Data insertion from sensor 37 succeeded
+640 Sat Dec 20 11:28:25 2025 Sensor node 15 reports it's too hot (avg temp = 21.58)
+641 Sat Dec 20 11:28:25 2025 Data insertion from sensor 15 succeeded
+642 Sat Dec 20 11:28:26 2025 Sensor node 21 reports it's too hot (avg temp = 23.45)
+643 Sat Dec 20 11:28:26 2025 Data insertion from sensor 21 succeeded
+644 Sat Dec 20 11:28:26 2025 Sensor node 15 reports it's too hot (avg temp = 21.47)
+645 Sat Dec 20 11:28:26 2025 Data insertion from sensor 15 succeeded
+646 Sat Dec 20 11:28:27 2025 Sensor node 37 reports it's too hot (avg temp = 23.24)
+647 Sat Dec 20 11:28:27 2025 Data insertion from sensor 37 succeeded
+648 Sat Dec 20 11:28:27 2025 Sensor node 15 reports it's too hot (avg temp = 21.35)
+649 Sat Dec 20 11:28:27 2025 Data insertion from sensor 15 succeeded
+650 Sat Dec 20 11:28:28 2025 Sensor node 15 reports it's too hot (avg temp = 21.23)
+651 Sat Dec 20 11:28:28 2025 Data insertion from sensor 15 succeeded
+652 Sat Dec 20 11:28:29 2025 Sensor node 21 reports it's too hot (avg temp = 23.49)
+653 Sat Dec 20 11:28:29 2025 Data insertion from sensor 21 succeeded
+654 Sat Dec 20 11:28:29 2025 Sensor node 37 reports it's too hot (avg temp = 23.23)
+655 Sat Dec 20 11:28:29 2025 Data insertion from sensor 37 succeeded
+656 Sat Dec 20 11:28:29 2025 Sensor node 15 reports it's too hot (avg temp = 21.11)
+657 Sat Dec 20 11:28:29 2025 Data insertion from sensor 15 succeeded
+658 Sat Dec 20 11:28:30 2025 Sensor node 15 reports it's too hot (avg temp = 21.02)
+659 Sat Dec 20 11:28:30 2025 Data insertion from sensor 15 succeeded
+660 Sat Dec 20 11:28:31 2025 Sensor node 37 reports it's too hot (avg temp = 23.20)
+661 Sat Dec 20 11:28:31 2025 Data insertion from sensor 37 succeeded
+662 Sat Dec 20 11:28:31 2025 Sensor node 15 reports it's too hot (avg temp = 20.98)
+663 Sat Dec 20 11:28:31 2025 Data insertion from sensor 15 succeeded
+664 Sat Dec 20 11:28:32 2025 Data insertion from sensor 21 succeeded
+665 Sat Dec 20 11:28:32 2025 Sensor node 21 reports it's too hot (avg temp = 23.54)
+666 Sat Dec 20 11:28:32 2025 Sensor node 15 reports it's too hot (avg temp = 20.96)
+667 Sat Dec 20 11:28:32 2025 Data insertion from sensor 15 succeeded
+668 Sat Dec 20 11:28:33 2025 Sensor node 37 reports it's too hot (avg temp = 23.20)
+669 Sat Dec 20 11:28:33 2025 Data insertion from sensor 37 succeeded
+670 Sat Dec 20 11:28:33 2025 Sensor node 15 reports it's too hot (avg temp = 20.94)
+671 Sat Dec 20 11:28:33 2025 Data insertion from sensor 15 succeeded
+672 Sat Dec 20 11:28:34 2025 Sensor node 15 reports it's too hot (avg temp = 20.97)
+673 Sat Dec 20 11:28:34 2025 Data insertion from sensor 15 succeeded
+674 Sat Dec 20 11:28:35 2025 Sensor node 21 reports it's too hot (avg temp = 23.62)
+675 Sat Dec 20 11:28:35 2025 Data insertion from sensor 21 succeeded
+676 Sat Dec 20 11:28:35 2025 Sensor node 37 reports it's too hot (avg temp = 23.22)
+677 Sat Dec 20 11:28:35 2025 Data insertion from sensor 37 succeeded
+678 Sat Dec 20 11:28:35 2025 Sensor node 15 reports it's too hot (avg temp = 20.98)
+679 Sat Dec 20 11:28:35 2025 Data insertion from sensor 15 succeeded
+680 Sat Dec 20 11:28:36 2025 Sensor node 15 reports it's too hot (avg temp = 20.93)
+681 Sat Dec 20 11:28:36 2025 Data insertion from sensor 15 succeeded
+682 Sat Dec 20 11:28:37 2025 Sensor node 37 reports it's too hot (avg temp = 23.27)
+683 Sat Dec 20 11:28:37 2025 Data insertion from sensor 37 succeeded
+684 Sat Dec 20 11:28:37 2025 Sensor node 15 reports it's too hot (avg temp = 20.90)
+685 Sat Dec 20 11:28:37 2025 Data insertion from sensor 15 succeeded
+686 Sat Dec 20 11:28:38 2025 Sensor node 21 reports it's too hot (avg temp = 23.69)
+687 Sat Dec 20 11:28:38 2025 Data insertion from sensor 21 succeeded
+688 Sat Dec 20 11:28:38 2025 Sensor node 15 reports it's too hot (avg temp = 20.86)
+689 Sat Dec 20 11:28:38 2025 Data insertion from sensor 15 succeeded
+690 Sat Dec 20 11:28:39 2025 Sensor node 37 reports it's too hot (avg temp = 23.29)
+691 Sat Dec 20 11:28:39 2025 Data insertion from sensor 37 succeeded
+692 Sat Dec 20 11:28:39 2025 Sensor node 15 reports it's too hot (avg temp = 20.85)
+693 Sat Dec 20 11:28:39 2025 Data insertion from sensor 15 succeeded
+694 Sat Dec 20 11:28:40 2025 Sensor node 15 reports it's too hot (avg temp = 20.87)
+695 Sat Dec 20 11:28:40 2025 Data insertion from sensor 15 succeeded
+696 Sat Dec 20 11:28:41 2025 Sensor node 21 reports it's too hot (avg temp = 23.78)
+697 Sat Dec 20 11:28:41 2025 Data insertion from sensor 21 succeeded
+698 Sat Dec 20 11:28:41 2025 Sensor node 37 reports it's too hot (avg temp = 23.27)
+699 Sat Dec 20 11:28:41 2025 Data insertion from sensor 37 succeeded
+700 Sat Dec 20 11:28:41 2025 Data insertion from sensor 15 succeeded
+701 Sat Dec 20 11:28:41 2025 Sensor node 15 reports it's too hot (avg temp = 20.90)
+702 Sat Dec 20 11:28:42 2025 Sensor node 15 reports it's too hot (avg temp = 20.87)
+703 Sat Dec 20 11:28:42 2025 Data insertion from sensor 15 succeeded
+704 Sat Dec 20 11:28:43 2025 Sensor node 37 reports it's too hot (avg temp = 23.28)
+705 Sat Dec 20 11:28:43 2025 Data insertion from sensor 37 succeeded
+706 Sat Dec 20 11:28:43 2025 Sensor node 15 reports it's too hot (avg temp = 20.84)
+707 Sat Dec 20 11:28:43 2025 Data insertion from sensor 15 succeeded
+708 Sat Dec 20 11:28:44 2025 Sensor node 21 reports it's too hot (avg temp = 23.82)
+709 Sat Dec 20 11:28:44 2025 Data insertion from sensor 21 succeeded
+710 Sat Dec 20 11:28:44 2025 Sensor node 15 reports it's too hot (avg temp = 20.74)
+711 Sat Dec 20 11:28:44 2025 Data insertion from sensor 15 succeeded
+712 Sat Dec 20 11:28:45 2025 Sensor node 37 reports it's too hot (avg temp = 23.25)
+713 Sat Dec 20 11:28:45 2025 Data insertion from sensor 37 succeeded
+714 Sat Dec 20 11:28:45 2025 Data insertion from sensor 15 succeeded
+715 Sat Dec 20 11:28:45 2025 Sensor node 15 reports it's too hot (avg temp = 20.63)
+716 Sat Dec 20 11:28:46 2025 Data insertion from sensor 15 succeeded
+717 Sat Dec 20 11:28:46 2025 Sensor node 15 reports it's too hot (avg temp = 20.55)
+718 Sat Dec 20 11:28:47 2025 Sensor node 21 reports it's too hot (avg temp = 23.86)
+719 Sat Dec 20 11:28:47 2025 Data insertion from sensor 21 succeeded
+720 Sat Dec 20 11:28:47 2025 Sensor node 37 reports it's too hot (avg temp = 23.15)
+721 Sat Dec 20 11:28:47 2025 Data insertion from sensor 37 succeeded
+722 Sat Dec 20 11:28:47 2025 Sensor node 15 reports it's too hot (avg temp = 20.51)
+723 Sat Dec 20 11:28:47 2025 Data insertion from sensor 15 succeeded
+724 Sat Dec 20 11:28:48 2025 Data insertion from sensor 15 succeeded
+725 Sat Dec 20 11:28:48 2025 Sensor node 15 reports it's too hot (avg temp = 20.52)
+726 Sat Dec 20 11:28:49 2025 Sensor node 37 reports it's too hot (avg temp = 23.10)
+727 Sat Dec 20 11:28:49 2025 Data insertion from sensor 37 succeeded
+728 Sat Dec 20 11:28:49 2025 Sensor node 15 reports it's too hot (avg temp = 20.61)
+729 Sat Dec 20 11:28:49 2025 Data insertion from sensor 15 succeeded
+730 Sat Dec 20 11:28:50 2025 Sensor node 21 reports it's too hot (avg temp = 23.84)
+731 Sat Dec 20 11:28:50 2025 Data insertion from sensor 21 succeeded
+732 Sat Dec 20 11:28:50 2025 Sensor node 15 reports it's too hot (avg temp = 20.75)
+733 Sat Dec 20 11:28:50 2025 Data insertion from sensor 15 succeeded
+734 Sat Dec 20 11:28:51 2025 Data insertion from sensor 37 succeeded
+735 Sat Dec 20 11:28:51 2025 Sensor node 37 reports it's too hot (avg temp = 23.07)
+736 Sat Dec 20 11:28:51 2025 Sensor node 15 reports it's too hot (avg temp = 20.93)
+737 Sat Dec 20 11:28:51 2025 Data insertion from sensor 15 succeeded
+738 Sat Dec 20 11:28:52 2025 Sensor node 15 reports it's too hot (avg temp = 21.06)
+739 Sat Dec 20 11:28:52 2025 Data insertion from sensor 15 succeeded
+740 Sat Dec 20 11:28:53 2025 Sensor node 21 reports it's too hot (avg temp = 23.82)
+741 Sat Dec 20 11:28:53 2025 Data insertion from sensor 21 succeeded
+742 Sat Dec 20 11:28:53 2025 Data insertion from sensor 37 succeeded
+743 Sat Dec 20 11:28:53 2025 Sensor node 37 reports it's too hot (avg temp = 23.03)
+744 Sat Dec 20 11:28:53 2025 Sensor node 15 reports it's too hot (avg temp = 21.17)
+745 Sat Dec 20 11:28:53 2025 Data insertion from sensor 15 succeeded
+746 Sat Dec 20 11:28:54 2025 Sensor node 15 reports it's too hot (avg temp = 21.25)
+747 Sat Dec 20 11:28:54 2025 Data insertion from sensor 15 succeeded
+748 Sat Dec 20 11:28:55 2025 Sensor node 37 reports it's too hot (avg temp = 23.00)
+749 Sat Dec 20 11:28:55 2025 Data insertion from sensor 37 succeeded
+750 Sat Dec 20 11:28:55 2025 Sensor node 15 reports it's too hot (avg temp = 21.32)
+751 Sat Dec 20 11:28:55 2025 Data insertion from sensor 15 succeeded
+752 Sat Dec 20 11:28:56 2025 Sensor node 21 reports it's too hot (avg temp = 23.74)
+753 Sat Dec 20 11:28:56 2025 Data insertion from sensor 21 succeeded
+754 Sat Dec 20 11:28:56 2025 Data insertion from sensor 15 succeeded
+755 Sat Dec 20 11:28:56 2025 Sensor node 15 reports it's too hot (avg temp = 21.37)
+756 Sat Dec 20 11:28:57 2025 Sensor node 37 reports it's too hot (avg temp = 22.95)
+757 Sat Dec 20 11:28:57 2025 Data insertion from sensor 37 succeeded
+758 Sat Dec 20 11:28:57 2025 Sensor node 15 reports it's too hot (avg temp = 21.45)
+759 Sat Dec 20 11:28:57 2025 Data insertion from sensor 15 succeeded
+760 Sat Dec 20 11:28:58 2025 Sensor node 15 reports it's too hot (avg temp = 21.49)
+761 Sat Dec 20 11:28:58 2025 Data insertion from sensor 15 succeeded
+762 Sat Dec 20 11:28:59 2025 Sensor node 21 reports it's too hot (avg temp = 23.67)
+763 Sat Dec 20 11:28:59 2025 Data insertion from sensor 21 succeeded
+764 Sat Dec 20 11:28:59 2025 Data insertion from sensor 37 succeeded
+765 Sat Dec 20 11:28:59 2025 Sensor node 37 reports it's too hot (avg temp = 22.84)
+766 Sat Dec 20 11:28:59 2025 Sensor node 15 reports it's too hot (avg temp = 21.51)
+767 Sat Dec 20 11:28:59 2025 Data insertion from sensor 15 succeeded
+768 Sat Dec 20 11:29:00 2025 Sensor node 15 reports it's too hot (avg temp = 21.51)
+769 Sat Dec 20 11:29:00 2025 Data insertion from sensor 15 succeeded
+770 Sat Dec 20 11:29:01 2025 Sensor node 37 reports it's too hot (avg temp = 22.71)
+771 Sat Dec 20 11:29:01 2025 Data insertion from sensor 37 succeeded
+772 Sat Dec 20 11:29:01 2025 Sensor node 15 reports it's too hot (avg temp = 21.47)
+773 Sat Dec 20 11:29:01 2025 Data insertion from sensor 15 succeeded
+774 Sat Dec 20 11:29:02 2025 Sensor node 21 reports it's too hot (avg temp = 23.54)
+775 Sat Dec 20 11:29:02 2025 Data insertion from sensor 21 succeeded
+776 Sat Dec 20 11:29:02 2025 Sensor node 15 reports it's too hot (avg temp = 21.40)
+777 Sat Dec 20 11:29:02 2025 Data insertion from sensor 15 succeeded
+778 Sat Dec 20 11:29:03 2025 Data insertion from sensor 37 succeeded
+779 Sat Dec 20 11:29:03 2025 Sensor node 37 reports it's too hot (avg temp = 22.55)
+780 Sat Dec 20 11:29:03 2025 Sensor node 15 reports it's too hot (avg temp = 21.37)
+781 Sat Dec 20 11:29:03 2025 Data insertion from sensor 15 succeeded
+782 Sat Dec 20 11:29:04 2025 Sensor node 15 reports it's too hot (avg temp = 21.31)
+783 Sat Dec 20 11:29:04 2025 Data insertion from sensor 15 succeeded
+784 Sat Dec 20 11:29:05 2025 Data insertion from sensor 21 succeeded
+785 Sat Dec 20 11:29:05 2025 Sensor node 21 reports it's too hot (avg temp = 23.49)
+786 Sat Dec 20 11:29:05 2025 Sensor node 37 reports it's too hot (avg temp = 22.44)
+787 Sat Dec 20 11:29:05 2025 Data insertion from sensor 37 succeeded
+788 Sat Dec 20 11:29:05 2025 Sensor node 15 reports it's too hot (avg temp = 21.19)
+789 Sat Dec 20 11:29:05 2025 Data insertion from sensor 15 succeeded
+790 Sat Dec 20 11:29:06 2025 Sensor node 15 reports it's too hot (avg temp = 21.15)
+791 Sat Dec 20 11:29:06 2025 Data insertion from sensor 15 succeeded
+792 Sat Dec 20 11:29:07 2025 Data insertion from sensor 37 succeeded
+793 Sat Dec 20 11:29:07 2025 Sensor node 37 reports it's too hot (avg temp = 22.36)
+794 Sat Dec 20 11:29:07 2025 Sensor node 15 reports it's too hot (avg temp = 21.10)
+795 Sat Dec 20 11:29:07 2025 Data insertion from sensor 15 succeeded
+796 Sat Dec 20 11:29:08 2025 Sensor node 21 reports it's too hot (avg temp = 23.43)
+797 Sat Dec 20 11:29:08 2025 Data insertion from sensor 21 succeeded
+798 Sat Dec 20 11:29:08 2025 Sensor node 15 reports it's too hot (avg temp = 21.04)
+799 Sat Dec 20 11:29:08 2025 Data insertion from sensor 15 succeeded
+800 Sat Dec 20 11:29:09 2025 Sensor node 37 reports it's too hot (avg temp = 22.28)
+801 Sat Dec 20 11:29:09 2025 Data insertion from sensor 37 succeeded
+802 Sat Dec 20 11:29:09 2025 Sensor node 15 reports it's too hot (avg temp = 21.05)
+803 Sat Dec 20 11:29:09 2025 Data insertion from sensor 15 succeeded
+804 Sat Dec 20 11:29:10 2025 Sensor node 15 reports it's too hot (avg temp = 21.10)
+805 Sat Dec 20 11:29:10 2025 Data insertion from sensor 15 succeeded
+806 Sat Dec 20 11:29:11 2025 Sensor node 21 reports it's too hot (avg temp = 23.40)
+807 Sat Dec 20 11:29:11 2025 Data insertion from sensor 21 succeeded
+808 Sat Dec 20 11:29:11 2025 Sensor node 37 reports it's too hot (avg temp = 22.23)
+809 Sat Dec 20 11:29:11 2025 Data insertion from sensor 37 succeeded
+810 Sat Dec 20 11:29:11 2025 Sensor node 15 reports it's too hot (avg temp = 21.13)
+811 Sat Dec 20 11:29:11 2025 Data insertion from sensor 15 succeeded
+812 Sat Dec 20 11:29:12 2025 Sensor node 15 reports it's too hot (avg temp = 21.20)
+813 Sat Dec 20 11:29:12 2025 Data insertion from sensor 15 succeeded
+814 Sat Dec 20 11:29:13 2025 Sensor node 37 reports it's too hot (avg temp = 22.12)
+815 Sat Dec 20 11:29:13 2025 Data insertion from sensor 37 succeeded
+816 Sat Dec 20 11:29:13 2025 Data insertion from sensor 15 succeeded
+817 Sat Dec 20 11:29:13 2025 Sensor node 15 reports it's too hot (avg temp = 21.22)
+818 Sat Dec 20 11:29:14 2025 Sensor node 21 reports it's too hot (avg temp = 23.42)
+819 Sat Dec 20 11:29:14 2025 Data insertion from sensor 21 succeeded
+820 Sat Dec 20 11:29:14 2025 Sensor node 15 reports it's too hot (avg temp = 21.19)
+821 Sat Dec 20 11:29:14 2025 Data insertion from sensor 15 succeeded
+822 Sat Dec 20 11:29:15 2025 Sensor node 37 reports it's too hot (avg temp = 21.97)
+823 Sat Dec 20 11:29:15 2025 Data insertion from sensor 37 succeeded
+824 Sat Dec 20 11:29:15 2025 Sensor node 15 reports it's too hot (avg temp = 21.14)
+825 Sat Dec 20 11:29:15 2025 Data insertion from sensor 15 succeeded
+826 Sat Dec 20 11:29:16 2025 Sensor node 15 reports it's too hot (avg temp = 20.99)
+827 Sat Dec 20 11:29:16 2025 Data insertion from sensor 15 succeeded
+828 Sat Dec 20 11:29:17 2025 Sensor node 21 reports it's too hot (avg temp = 23.43)
+829 Sat Dec 20 11:29:17 2025 Data insertion from sensor 21 succeeded
+830 Sat Dec 20 11:29:17 2025 Data insertion from sensor 37 succeeded
+831 Sat Dec 20 11:29:17 2025 Sensor node 37 reports it's too hot (avg temp = 21.88)
+832 Sat Dec 20 11:29:17 2025 Sensor node 15 reports it's too hot (avg temp = 20.86)
+833 Sat Dec 20 11:29:17 2025 Data insertion from sensor 15 succeeded
+834 Sat Dec 20 11:29:18 2025 Sensor node 15 reports it's too hot (avg temp = 20.72)
+835 Sat Dec 20 11:29:18 2025 Data insertion from sensor 15 succeeded
+836 Sat Dec 20 11:29:19 2025 Sensor node 37 reports it's too hot (avg temp = 21.83)
+837 Sat Dec 20 11:29:19 2025 Data insertion from sensor 37 succeeded
+838 Sat Dec 20 11:29:19 2025 Sensor node 15 reports it's too hot (avg temp = 20.65)
+839 Sat Dec 20 11:29:19 2025 Data insertion from sensor 15 succeeded
+840 Sat Dec 20 11:29:20 2025 Sensor node 21 reports it's too hot (avg temp = 23.38)
+841 Sat Dec 20 11:29:20 2025 Data insertion from sensor 21 succeeded
+842 Sat Dec 20 11:29:20 2025 Sensor node 15 reports it's too hot (avg temp = 20.66)
+843 Sat Dec 20 11:29:20 2025 Data insertion from sensor 15 succeeded
+844 Sat Dec 20 11:29:21 2025 Sensor node 37 reports it's too hot (avg temp = 21.86)
+845 Sat Dec 20 11:29:21 2025 Data insertion from sensor 37 succeeded
+846 Sat Dec 20 11:29:21 2025 Sensor node 15 reports it's too hot (avg temp = 20.71)
+847 Sat Dec 20 11:29:21 2025 Data insertion from sensor 15 succeeded
+848 Sat Dec 20 11:29:22 2025 Sensor node 15 reports it's too hot (avg temp = 20.72)
+849 Sat Dec 20 11:29:22 2025 Data insertion from sensor 15 succeeded
+850 Sat Dec 20 11:29:23 2025 Sensor node 21 reports it's too hot (avg temp = 23.32)
+851 Sat Dec 20 11:29:23 2025 Data insertion from sensor 21 succeeded
+852 Sat Dec 20 11:29:23 2025 Sensor node 37 reports it's too hot (avg temp = 21.95)
+853 Sat Dec 20 11:29:23 2025 Data insertion from sensor 37 succeeded
+854 Sat Dec 20 11:29:23 2025 Sensor node 15 reports it's too hot (avg temp = 20.76)
+855 Sat Dec 20 11:29:23 2025 Data insertion from sensor 15 succeeded
+856 Sat Dec 20 11:29:24 2025 Sensor node 15 reports it's too hot (avg temp = 20.72)
+857 Sat Dec 20 11:29:24 2025 Data insertion from sensor 15 succeeded
+858 Sat Dec 20 11:29:25 2025 Sensor node 37 reports it's too hot (avg temp = 22.07)
+859 Sat Dec 20 11:29:25 2025 Data insertion from sensor 37 succeeded
+860 Sat Dec 20 11:29:25 2025 Data insertion from sensor 15 succeeded
+861 Sat Dec 20 11:29:25 2025 Sensor node 15 reports it's too hot (avg temp = 20.61)
+862 Sat Dec 20 11:29:26 2025 Sensor node 21 reports it's too hot (avg temp = 23.25)
+863 Sat Dec 20 11:29:26 2025 Data insertion from sensor 21 succeeded
+864 Sat Dec 20 11:29:26 2025 Sensor node 15 reports it's too hot (avg temp = 20.54)
+865 Sat Dec 20 11:29:26 2025 Data insertion from sensor 15 succeeded
+866 Sat Dec 20 11:29:27 2025 Sensor node 37 reports it's too hot (avg temp = 22.19)
+867 Sat Dec 20 11:29:27 2025 Data insertion from sensor 37 succeeded
+868 Sat Dec 20 11:29:27 2025 Sensor node 15 reports it's too hot (avg temp = 20.50)
+869 Sat Dec 20 11:29:27 2025 Data insertion from sensor 15 succeeded
+870 Sat Dec 20 11:29:28 2025 Sensor node 15 reports it's too hot (avg temp = 20.48)
+871 Sat Dec 20 11:29:28 2025 Data insertion from sensor 15 succeeded
+872 Sat Dec 20 11:29:29 2025 Data insertion from sensor 21 succeeded
+873 Sat Dec 20 11:29:29 2025 Sensor node 21 reports it's too hot (avg temp = 23.11)
+874 Sat Dec 20 11:29:29 2025 Sensor node 37 reports it's too hot (avg temp = 22.34)
+875 Sat Dec 20 11:29:29 2025 Data insertion from sensor 37 succeeded
+876 Sat Dec 20 11:29:29 2025 Sensor node 15 reports it's too hot (avg temp = 20.51)
+877 Sat Dec 20 11:29:29 2025 Data insertion from sensor 15 succeeded
+878 Sat Dec 20 11:29:30 2025 Sensor node 15 reports it's too hot (avg temp = 20.58)
+879 Sat Dec 20 11:29:30 2025 Data insertion from sensor 15 succeeded
+880 Sat Dec 20 11:29:31 2025 Sensor node 37 reports it's too hot (avg temp = 22.44)
+881 Sat Dec 20 11:29:31 2025 Data insertion from sensor 37 succeeded
+882 Sat Dec 20 11:29:31 2025 Sensor node 15 reports it's too hot (avg temp = 20.62)
+883 Sat Dec 20 11:29:31 2025 Data insertion from sensor 15 succeeded
+884 Sat Dec 20 11:29:32 2025 Sensor node 21 reports it's too hot (avg temp = 23.02)
+885 Sat Dec 20 11:29:32 2025 Data insertion from sensor 21 succeeded
+886 Sat Dec 20 11:29:32 2025 Sensor node 15 reports it's too hot (avg temp = 20.61)
+887 Sat Dec 20 11:29:32 2025 Data insertion from sensor 15 succeeded
+888 Sat Dec 20 11:29:33 2025 Sensor node 37 reports it's too hot (avg temp = 22.47)
+889 Sat Dec 20 11:29:33 2025 Data insertion from sensor 37 succeeded
+890 Sat Dec 20 11:29:33 2025 Sensor node 15 reports it's too hot (avg temp = 20.61)
+891 Sat Dec 20 11:29:33 2025 Data insertion from sensor 15 succeeded
+892 Sat Dec 20 11:29:34 2025 Sensor node 15 reports it's too hot (avg temp = 20.59)
+893 Sat Dec 20 11:29:34 2025 Data insertion from sensor 15 succeeded
+894 Sat Dec 20 11:29:35 2025 Sensor node 21 reports it's too hot (avg temp = 23.00)
+895 Sat Dec 20 11:29:35 2025 Data insertion from sensor 21 succeeded
+896 Sat Dec 20 11:29:35 2025 Sensor node 37 reports it's too hot (avg temp = 22.52)
+897 Sat Dec 20 11:29:35 2025 Data insertion from sensor 37 succeeded
+898 Sat Dec 20 11:29:35 2025 Sensor node 15 reports it's too hot (avg temp = 20.57)
+899 Sat Dec 20 11:29:35 2025 Data insertion from sensor 15 succeeded
+900 Sat Dec 20 11:29:36 2025 Sensor node 15 reports it's too hot (avg temp = 20.55)
+901 Sat Dec 20 11:29:36 2025 Data insertion from sensor 15 succeeded
+902 Sat Dec 20 11:29:37 2025 Sensor node 37 reports it's too hot (avg temp = 22.53)
+903 Sat Dec 20 11:29:37 2025 Data insertion from sensor 37 succeeded
+904 Sat Dec 20 11:29:37 2025 Data insertion from sensor 15 succeeded
+905 Sat Dec 20 11:29:37 2025 Sensor node 15 reports it's too hot (avg temp = 20.54)
+906 Sat Dec 20 11:29:38 2025 Sensor node 21 reports it's too hot (avg temp = 23.01)
+907 Sat Dec 20 11:29:38 2025 Data insertion from sensor 21 succeeded
+908 Sat Dec 20 11:29:38 2025 Sensor node 15 reports it's too hot (avg temp = 20.55)
+909 Sat Dec 20 11:29:38 2025 Data insertion from sensor 15 succeeded
+910 Sat Dec 20 11:29:39 2025 Data insertion from sensor 37 succeeded
+911 Sat Dec 20 11:29:39 2025 Sensor node 37 reports it's too hot (avg temp = 22.50)
+912 Sat Dec 20 11:29:39 2025 Data insertion from sensor 15 succeeded
+913 Sat Dec 20 11:29:39 2025 Sensor node 15 reports it's too hot (avg temp = 20.55)
+914 Sat Dec 20 11:29:40 2025 Data insertion from sensor 15 succeeded
+915 Sat Dec 20 11:29:40 2025 Sensor node 15 reports it's too hot (avg temp = 20.52)
+916 Sat Dec 20 11:29:41 2025 Sensor node 21 reports it's too hot (avg temp = 23.06)
+917 Sat Dec 20 11:29:41 2025 Data insertion from sensor 21 succeeded
+918 Sat Dec 20 11:29:41 2025 Sensor node 37 reports it's too hot (avg temp = 22.49)
+919 Sat Dec 20 11:29:41 2025 Data insertion from sensor 37 succeeded
+920 Sat Dec 20 11:29:41 2025 Sensor node 15 reports it's too hot (avg temp = 20.47)
+921 Sat Dec 20 11:29:41 2025 Data insertion from sensor 15 succeeded
+922 Sat Dec 20 11:29:42 2025 Data insertion from sensor 15 succeeded
+923 Sat Dec 20 11:29:42 2025 Sensor node 15 reports it's too hot (avg temp = 20.49)
+924 Sat Dec 20 11:29:43 2025 Sensor node 37 reports it's too hot (avg temp = 22.56)
+925 Sat Dec 20 11:29:43 2025 Data insertion from sensor 37 succeeded
+926 Sat Dec 20 11:29:43 2025 Sensor node 15 reports it's too hot (avg temp = 20.44)
+927 Sat Dec 20 11:29:43 2025 Data insertion from sensor 15 succeeded
+928 Sat Dec 20 11:29:44 2025 Sensor node 21 reports it's too hot (avg temp = 23.14)
+929 Sat Dec 20 11:29:44 2025 Data insertion from sensor 21 succeeded
+930 Sat Dec 20 11:29:44 2025 Sensor node 15 reports it's too hot (avg temp = 20.37)
+931 Sat Dec 20 11:29:44 2025 Data insertion from sensor 15 succeeded
+932 Sat Dec 20 11:29:45 2025 Sensor node 37 reports it's too hot (avg temp = 22.62)
+933 Sat Dec 20 11:29:45 2025 Data insertion from sensor 37 succeeded
+934 Sat Dec 20 11:29:45 2025 Sensor node 15 reports it's too hot (avg temp = 20.34)
+935 Sat Dec 20 11:29:45 2025 Data insertion from sensor 15 succeeded
+936 Sat Dec 20 11:29:46 2025 Data insertion from sensor 15 succeeded
+937 Sat Dec 20 11:29:46 2025 Sensor node 15 reports it's too hot (avg temp = 20.31)
+938 Sat Dec 20 11:29:47 2025 Data insertion from sensor 21 succeeded
+939 Sat Dec 20 11:29:47 2025 Sensor node 21 reports it's too hot (avg temp = 23.22)
+940 Sat Dec 20 11:29:47 2025 Sensor node 37 reports it's too hot (avg temp = 22.69)
+941 Sat Dec 20 11:29:47 2025 Data insertion from sensor 37 succeeded
+942 Sat Dec 20 11:29:47 2025 Sensor node 15 reports it's too hot (avg temp = 20.30)
+943 Sat Dec 20 11:29:47 2025 Data insertion from sensor 15 succeeded
+944 Sat Dec 20 11:29:48 2025 Sensor node 15 reports it's too hot (avg temp = 20.29)
+945 Sat Dec 20 11:29:48 2025 Data insertion from sensor 15 succeeded
+946 Sat Dec 20 11:29:49 2025 Sensor node 37 reports it's too hot (avg temp = 22.73)
+947 Sat Dec 20 11:29:49 2025 Data insertion from sensor 37 succeeded
+948 Sat Dec 20 11:29:49 2025 Data insertion from sensor 15 succeeded
+949 Sat Dec 20 11:29:49 2025 Sensor node 15 reports it's too hot (avg temp = 20.31)
+950 Sat Dec 20 11:29:50 2025 Sensor node 21 reports it's too hot (avg temp = 23.25)
+951 Sat Dec 20 11:29:50 2025 Data insertion from sensor 21 succeeded
+952 Sat Dec 20 11:29:50 2025 Sensor node 15 reports it's too hot (avg temp = 20.34)
+953 Sat Dec 20 11:29:50 2025 Data insertion from sensor 15 succeeded
+954 Sat Dec 20 11:29:51 2025 Sensor node 37 reports it's too hot (avg temp = 22.76)
+955 Sat Dec 20 11:29:51 2025 Data insertion from sensor 37 succeeded
+956 Sat Dec 20 11:29:51 2025 Sensor node 15 reports it's too hot (avg temp = 20.41)
+957 Sat Dec 20 11:29:51 2025 Data insertion from sensor 15 succeeded
+958 Sat Dec 20 11:29:52 2025 Sensor node 15 reports it's too hot (avg temp = 20.39)
+959 Sat Dec 20 11:29:52 2025 Data insertion from sensor 15 succeeded
+960 Sat Dec 20 11:29:53 2025 Sensor node 21 reports it's too hot (avg temp = 23.26)
+961 Sat Dec 20 11:29:53 2025 Data insertion from sensor 21 succeeded
+962 Sat Dec 20 11:29:53 2025 Sensor node 37 reports it's too hot (avg temp = 22.76)
+963 Sat Dec 20 11:29:53 2025 Data insertion from sensor 37 succeeded
+964 Sat Dec 20 11:29:53 2025 Sensor node 15 reports it's too hot (avg temp = 20.44)
+965 Sat Dec 20 11:29:53 2025 Data insertion from sensor 15 succeeded
+966 Sat Dec 20 11:29:54 2025 Data insertion from sensor 15 succeeded
+967 Sat Dec 20 11:29:54 2025 Sensor node 15 reports it's too hot (avg temp = 20.52)
+968 Sat Dec 20 11:29:55 2025 Sensor node 37 reports it's too hot (avg temp = 22.73)
+969 Sat Dec 20 11:29:55 2025 Data insertion from sensor 37 succeeded
+970 Sat Dec 20 11:29:55 2025 Sensor node 15 reports it's too hot (avg temp = 20.54)
+971 Sat Dec 20 11:29:55 2025 Data insertion from sensor 15 succeeded
+972 Sat Dec 20 11:29:56 2025 Sensor node 21 reports it's too hot (avg temp = 23.24)
+973 Sat Dec 20 11:29:56 2025 Data insertion from sensor 21 succeeded
+974 Sat Dec 20 11:29:56 2025 Sensor node 15 reports it's too hot (avg temp = 20.59)
+975 Sat Dec 20 11:29:56 2025 Data insertion from sensor 15 succeeded
+976 Sat Dec 20 11:29:57 2025 Sensor node 37 reports it's too hot (avg temp = 22.67)
+977 Sat Dec 20 11:29:57 2025 Data insertion from sensor 37 succeeded
+978 Sat Dec 20 11:29:57 2025 Sensor node 15 reports it's too hot (avg temp = 20.67)
+979 Sat Dec 20 11:29:57 2025 Data insertion from sensor 15 succeeded
+980 Sat Dec 20 11:29:58 2025 Sensor node 15 reports it's too hot (avg temp = 20.77)
+981 Sat Dec 20 11:29:58 2025 Data insertion from sensor 15 succeeded
+982 Sat Dec 20 11:29:59 2025 Sensor node 21 reports it's too hot (avg temp = 23.23)
+983 Sat Dec 20 11:29:59 2025 Data insertion from sensor 21 succeeded
+984 Sat Dec 20 11:29:59 2025 Sensor node 37 reports it's too hot (avg temp = 22.67)
+985 Sat Dec 20 11:29:59 2025 Data insertion from sensor 37 succeeded
+986 Sat Dec 20 11:29:59 2025 Data insertion from sensor 15 succeeded
+987 Sat Dec 20 11:29:59 2025 Sensor node 15 reports it's too hot (avg temp = 20.80)
+988 Sat Dec 20 11:30:00 2025 Sensor node 15 reports it's too hot (avg temp = 20.83)
+989 Sat Dec 20 11:30:00 2025 Data insertion from sensor 15 succeeded
+990 Sat Dec 20 11:30:01 2025 Sensor node 37 reports it's too hot (avg temp = 22.66)
+991 Sat Dec 20 11:30:01 2025 Data insertion from sensor 37 succeeded
+992 Sat Dec 20 11:30:01 2025 Data insertion from sensor 15 succeeded
+993 Sat Dec 20 11:30:01 2025 Sensor node 15 reports it's too hot (avg temp = 20.84)
+994 Sat Dec 20 11:30:02 2025 Data insertion from sensor 21 succeeded
+995 Sat Dec 20 11:30:02 2025 Sensor node 21 reports it's too hot (avg temp = 23.20)
+996 Sat Dec 20 11:30:02 2025 Sensor node 15 reports it's too hot (avg temp = 20.83)
+997 Sat Dec 20 11:30:02 2025 Data insertion from sensor 15 succeeded
+998 Sat Dec 20 11:30:03 2025 Sensor node 37 reports it's too hot (avg temp = 22.68)
+999 Sat Dec 20 11:30:03 2025 Data insertion from sensor 37 succeeded
+1000 Sat Dec 20 11:30:03 2025 Sensor node 15 reports it's too hot (avg temp = 20.76)
+1001 Sat Dec 20 11:30:03 2025 Data insertion from sensor 15 succeeded
+1002 Sat Dec 20 11:30:04 2025 Sensor node 15 reports it's too hot (avg temp = 20.70)
+1003 Sat Dec 20 11:30:04 2025 Data insertion from sensor 15 succeeded
+1004 Sat Dec 20 11:30:05 2025 Sensor node 21 reports it's too hot (avg temp = 23.20)
+1005 Sat Dec 20 11:30:05 2025 Data insertion from sensor 21 succeeded
+1006 Sat Dec 20 11:30:05 2025 Data insertion from sensor 37 succeeded
+1007 Sat Dec 20 11:30:05 2025 Sensor node 37 reports it's too hot (avg temp = 22.73)
+1008 Sat Dec 20 11:30:05 2025 Sensor node 15 reports it's too hot (avg temp = 20.70)
+1009 Sat Dec 20 11:30:05 2025 Data insertion from sensor 15 succeeded
+1010 Sat Dec 20 11:30:06 2025 Sensor node 15 reports it's too hot (avg temp = 20.66)
+1011 Sat Dec 20 11:30:06 2025 Data insertion from sensor 15 succeeded
+1012 Sat Dec 20 11:30:07 2025 Data insertion from sensor 37 succeeded
+1013 Sat Dec 20 11:30:07 2025 Sensor node 37 reports it's too hot (avg temp = 22.76)
+1014 Sat Dec 20 11:30:07 2025 Sensor node 15 reports it's too hot (avg temp = 20.67)
+1015 Sat Dec 20 11:30:07 2025 Data insertion from sensor 15 succeeded
+1016 Sat Dec 20 11:30:08 2025 Sensor node 21 reports it's too hot (avg temp = 23.22)
+1017 Sat Dec 20 11:30:08 2025 Data insertion from sensor 21 succeeded
+1018 Sat Dec 20 11:30:08 2025 Sensor node 15 reports it's too hot (avg temp = 20.69)
+1019 Sat Dec 20 11:30:08 2025 Data insertion from sensor 15 succeeded
+1020 Sat Dec 20 11:30:09 2025 Data insertion from sensor 37 succeeded
+1021 Sat Dec 20 11:30:09 2025 Sensor node 37 reports it's too hot (avg temp = 22.75)
+1022 Sat Dec 20 11:30:09 2025 Sensor node 15 reports it's too hot (avg temp = 20.73)
+1023 Sat Dec 20 11:30:09 2025 Data insertion from sensor 15 succeeded
+1024 Sat Dec 20 11:30:10 2025 Sensor node 15 reports it's too hot (avg temp = 20.78)
+1025 Sat Dec 20 11:30:10 2025 Data insertion from sensor 15 succeeded
+1026 Sat Dec 20 11:30:11 2025 Sensor node 21 reports it's too hot (avg temp = 23.27)
+1027 Sat Dec 20 11:30:11 2025 Data insertion from sensor 21 succeeded
+1028 Sat Dec 20 11:30:11 2025 Sensor node 37 reports it's too hot (avg temp = 22.73)
+1029 Sat Dec 20 11:30:11 2025 Data insertion from sensor 37 succeeded
+1030 Sat Dec 20 11:30:11 2025 Data insertion from sensor 15 succeeded
+1031 Sat Dec 20 11:30:11 2025 Sensor node 15 reports it's too hot (avg temp = 20.86)
+1032 Sat Dec 20 11:30:12 2025 Data insertion from sensor 15 succeeded
+1033 Sat Dec 20 11:30:12 2025 Sensor node 15 reports it's too hot (avg temp = 20.90)
+1034 Sat Dec 20 11:30:13 2025 Data insertion from sensor 37 succeeded
+1035 Sat Dec 20 11:30:13 2025 Sensor node 37 reports it's too hot (avg temp = 22.64)
+1036 Sat Dec 20 11:30:13 2025 Sensor node 15 reports it's too hot (avg temp = 21.00)
+1037 Sat Dec 20 11:30:13 2025 Data insertion from sensor 15 succeeded
+1038 Sat Dec 20 11:30:14 2025 Sensor node 21 reports it's too hot (avg temp = 23.29)
+1039 Sat Dec 20 11:30:14 2025 Data insertion from sensor 21 succeeded
+1040 Sat Dec 20 11:30:14 2025 Sensor node 15 reports it's too hot (avg temp = 21.14)
+1041 Sat Dec 20 11:30:14 2025 Data insertion from sensor 15 succeeded
+1042 Sat Dec 20 11:30:15 2025 Data insertion from sensor 37 succeeded
+1043 Sat Dec 20 11:30:15 2025 Sensor node 37 reports it's too hot (avg temp = 22.59)
+1044 Sat Dec 20 11:30:15 2025 Data insertion from sensor 15 succeeded
+1045 Sat Dec 20 11:30:15 2025 Sensor node 15 reports it's too hot (avg temp = 21.20)
+1046 Sat Dec 20 11:30:16 2025 Sensor node 15 reports it's too hot (avg temp = 21.26)
+1047 Sat Dec 20 11:30:16 2025 Data insertion from sensor 15 succeeded
+1048 Sat Dec 20 11:30:17 2025 Sensor node 21 reports it's too hot (avg temp = 23.27)
+1049 Sat Dec 20 11:30:17 2025 Data insertion from sensor 21 succeeded
+1050 Sat Dec 20 11:30:17 2025 Sensor node 37 reports it's too hot (avg temp = 22.55)
+1051 Sat Dec 20 11:30:17 2025 Data insertion from sensor 37 succeeded
+1052 Sat Dec 20 11:30:17 2025 Data insertion from sensor 15 succeeded
+1053 Sat Dec 20 11:30:17 2025 Sensor node 15 reports it's too hot (avg temp = 21.35)
+1054 Sat Dec 20 11:30:18 2025 Sensor node 15 reports it's too hot (avg temp = 21.44)
+1055 Sat Dec 20 11:30:18 2025 Data insertion from sensor 15 succeeded
+1056 Sat Dec 20 11:30:19 2025 Data insertion from sensor 37 succeeded
+1057 Sat Dec 20 11:30:19 2025 Sensor node 37 reports it's too hot (avg temp = 22.55)
+1058 Sat Dec 20 11:30:19 2025 Data insertion from sensor 15 succeeded
+1059 Sat Dec 20 11:30:19 2025 Sensor node 15 reports it's too hot (avg temp = 21.49)
+1060 Sat Dec 20 11:30:20 2025 Sensor node 21 reports it's too hot (avg temp = 23.28)
+1061 Sat Dec 20 11:30:20 2025 Data insertion from sensor 21 succeeded
+1062 Sat Dec 20 11:30:20 2025 Sensor node 15 reports it's too hot (avg temp = 21.56)
+1063 Sat Dec 20 11:30:20 2025 Data insertion from sensor 15 succeeded
+1064 Sat Dec 20 11:30:21 2025 Sensor node 37 reports it's too hot (avg temp = 22.58)
+1065 Sat Dec 20 11:30:21 2025 Data insertion from sensor 37 succeeded
+1066 Sat Dec 20 11:30:21 2025 Sensor node 15 reports it's too hot (avg temp = 21.62)
+1067 Sat Dec 20 11:30:21 2025 Data insertion from sensor 15 succeeded
+1068 Sat Dec 20 11:30:22 2025 Sensor node 15 reports it's too hot (avg temp = 21.64)
+1069 Sat Dec 20 11:30:22 2025 Data insertion from sensor 15 succeeded
+1070 Sat Dec 20 11:30:23 2025 Data insertion from sensor 21 succeeded
+1071 Sat Dec 20 11:30:23 2025 Sensor node 21 reports it's too hot (avg temp = 23.25)
+1072 Sat Dec 20 11:30:23 2025 Sensor node 37 reports it's too hot (avg temp = 22.66)
+1073 Sat Dec 20 11:30:23 2025 Data insertion from sensor 37 succeeded
+1074 Sat Dec 20 11:30:23 2025 Sensor node 15 reports it's too hot (avg temp = 21.61)
+1075 Sat Dec 20 11:30:23 2025 Data insertion from sensor 15 succeeded
+1076 Sat Dec 20 11:30:24 2025 Sensor node 15 reports it's too hot (avg temp = 21.57)
+1077 Sat Dec 20 11:30:24 2025 Data insertion from sensor 15 succeeded
+1078 Sat Dec 20 11:30:25 2025 Sensor node 37 reports it's too hot (avg temp = 22.70)
+1079 Sat Dec 20 11:30:25 2025 Data insertion from sensor 37 succeeded
+1080 Sat Dec 20 11:30:25 2025 Sensor node 15 reports it's too hot (avg temp = 21.54)
+1081 Sat Dec 20 11:30:25 2025 Data insertion from sensor 15 succeeded
+1082 Sat Dec 20 11:30:26 2025 Sensor node 21 reports it's too hot (avg temp = 23.15)
+1083 Sat Dec 20 11:30:26 2025 Data insertion from sensor 21 succeeded
+1084 Sat Dec 20 11:30:26 2025 Sensor node 15 reports it's too hot (avg temp = 21.53)
+1085 Sat Dec 20 11:30:26 2025 Data insertion from sensor 15 succeeded
+1086 Sat Dec 20 11:30:27 2025 Sensor node 37 reports it's too hot (avg temp = 22.77)
+1087 Sat Dec 20 11:30:27 2025 Data insertion from sensor 37 succeeded
+1088 Sat Dec 20 11:30:27 2025 Data insertion from sensor 15 succeeded
+1089 Sat Dec 20 11:30:27 2025 Sensor node 15 reports it's too hot (avg temp = 21.52)
+1090 Sat Dec 20 11:30:28 2025 Sensor node 15 reports it's too hot (avg temp = 21.57)
+1091 Sat Dec 20 11:30:28 2025 Data insertion from sensor 15 succeeded
+1092 Sat Dec 20 11:30:29 2025 Sensor node 21 reports it's too hot (avg temp = 23.10)
+1093 Sat Dec 20 11:30:29 2025 Data insertion from sensor 21 succeeded
+1094 Sat Dec 20 11:30:29 2025 Sensor node 37 reports it's too hot (avg temp = 22.83)
+1095 Sat Dec 20 11:30:29 2025 Data insertion from sensor 37 succeeded
+1096 Sat Dec 20 11:30:29 2025 Sensor node 15 reports it's too hot (avg temp = 21.62)
+1097 Sat Dec 20 11:30:29 2025 Data insertion from sensor 15 succeeded
+1098 Sat Dec 20 11:30:30 2025 Sensor node 15 reports it's too hot (avg temp = 21.69)
+1099 Sat Dec 20 11:30:30 2025 Data insertion from sensor 15 succeeded
+1100 Sat Dec 20 11:30:31 2025 Sensor node 37 reports it's too hot (avg temp = 22.90)
+1101 Sat Dec 20 11:30:31 2025 Data insertion from sensor 37 succeeded
+1102 Sat Dec 20 11:30:31 2025 Sensor node 15 reports it's too hot (avg temp = 21.77)
+1103 Sat Dec 20 11:30:31 2025 Data insertion from sensor 15 succeeded
+1104 Sat Dec 20 11:30:32 2025 Sensor node 21 reports it's too hot (avg temp = 23.07)
+1105 Sat Dec 20 11:30:32 2025 Data insertion from sensor 21 succeeded
+1106 Sat Dec 20 11:30:32 2025 Sensor node 15 reports it's too hot (avg temp = 21.86)
+1107 Sat Dec 20 11:30:32 2025 Data insertion from sensor 15 succeeded
+1108 Sat Dec 20 11:30:33 2025 Sensor node 37 reports it's too hot (avg temp = 22.97)
+1109 Sat Dec 20 11:30:33 2025 Data insertion from sensor 37 succeeded
+1110 Sat Dec 20 11:30:33 2025 Sensor node 15 reports it's too hot (avg temp = 21.91)
+1111 Sat Dec 20 11:30:33 2025 Data insertion from sensor 15 succeeded
+1112 Sat Dec 20 11:30:34 2025 Sensor node 15 reports it's too hot (avg temp = 21.90)
+1113 Sat Dec 20 11:30:34 2025 Data insertion from sensor 15 succeeded
+1114 Sat Dec 20 11:30:35 2025 Sensor node 21 reports it's too hot (avg temp = 23.03)
+1115 Sat Dec 20 11:30:35 2025 Data insertion from sensor 21 succeeded
+1116 Sat Dec 20 11:30:35 2025 Data insertion from sensor 37 succeeded
+1117 Sat Dec 20 11:30:35 2025 Sensor node 37 reports it's too hot (avg temp = 23.00)
+1118 Sat Dec 20 11:30:35 2025 Sensor node 15 reports it's too hot (avg temp = 21.89)
+1119 Sat Dec 20 11:30:35 2025 Data insertion from sensor 15 succeeded
+1120 Sat Dec 20 11:30:36 2025 Sensor node 15 reports it's too hot (avg temp = 21.89)
+1121 Sat Dec 20 11:30:36 2025 Data insertion from sensor 15 succeeded
+1122 Sat Dec 20 11:30:37 2025 Data insertion from sensor 37 succeeded
+1123 Sat Dec 20 11:30:37 2025 Sensor node 37 reports it's too hot (avg temp = 23.01)
+1124 Sat Dec 20 11:30:37 2025 Sensor node 15 reports it's too hot (avg temp = 21.82)
+1125 Sat Dec 20 11:30:37 2025 Data insertion from sensor 15 succeeded
+1126 Sat Dec 20 11:30:38 2025 Data insertion from sensor 21 succeeded
+1127 Sat Dec 20 11:30:38 2025 Sensor node 21 reports it's too hot (avg temp = 23.00)
+1128 Sat Dec 20 11:30:38 2025 Sensor node 15 reports it's too hot (avg temp = 21.80)
+1129 Sat Dec 20 11:30:38 2025 Data insertion from sensor 15 succeeded
+1130 Sat Dec 20 11:30:39 2025 Sensor node 37 reports it's too hot (avg temp = 23.01)
+1131 Sat Dec 20 11:30:39 2025 Data insertion from sensor 37 succeeded
+1132 Sat Dec 20 11:30:39 2025 Data insertion from sensor 15 succeeded
+1133 Sat Dec 20 11:30:39 2025 Sensor node 15 reports it's too hot (avg temp = 21.83)
+1134 Sat Dec 20 11:30:40 2025 Sensor node 15 reports it's too hot (avg temp = 21.89)
+1135 Sat Dec 20 11:30:40 2025 Data insertion from sensor 15 succeeded
+1136 Sat Dec 20 11:30:41 2025 Sensor node 21 reports it's too hot (avg temp = 22.95)
+1137 Sat Dec 20 11:30:41 2025 Data insertion from sensor 21 succeeded
+1138 Sat Dec 20 11:30:41 2025 Data insertion from sensor 37 succeeded
+1139 Sat Dec 20 11:30:41 2025 Sensor node 37 reports it's too hot (avg temp = 22.96)
+1140 Sat Dec 20 11:30:41 2025 Sensor node 15 reports it's too hot (avg temp = 21.89)
+1141 Sat Dec 20 11:30:41 2025 Data insertion from sensor 15 succeeded
+1142 Sat Dec 20 11:30:42 2025 Data insertion from sensor 15 succeeded
+1143 Sat Dec 20 11:30:42 2025 Sensor node 15 reports it's too hot (avg temp = 21.91)
+1144 Sat Dec 20 11:30:43 2025 Sensor node 37 reports it's too hot (avg temp = 22.88)
+1145 Sat Dec 20 11:30:43 2025 Data insertion from sensor 37 succeeded
+1146 Sat Dec 20 11:30:43 2025 Sensor node 15 reports it's too hot (avg temp = 21.95)
+1147 Sat Dec 20 11:30:43 2025 Data insertion from sensor 15 succeeded
+1148 Sat Dec 20 11:30:44 2025 Sensor node 21 reports it's too hot (avg temp = 22.84)
+1149 Sat Dec 20 11:30:44 2025 Data insertion from sensor 21 succeeded
+1150 Sat Dec 20 11:30:44 2025 Sensor node 15 reports it's too hot (avg temp = 21.97)
+1151 Sat Dec 20 11:30:44 2025 Data insertion from sensor 15 succeeded
+1152 Sat Dec 20 11:30:45 2025 Sensor node 37 reports it's too hot (avg temp = 22.80)
+1153 Sat Dec 20 11:30:45 2025 Data insertion from sensor 37 succeeded
+1154 Sat Dec 20 11:30:45 2025 Sensor node 15 reports it's too hot (avg temp = 21.90)
+1155 Sat Dec 20 11:30:45 2025 Data insertion from sensor 15 succeeded
+1156 Sat Dec 20 11:30:46 2025 Sensor node 15 reports it's too hot (avg temp = 21.89)
+1157 Sat Dec 20 11:30:46 2025 Data insertion from sensor 15 succeeded
+1158 Sat Dec 20 11:30:47 2025 Sensor node 21 reports it's too hot (avg temp = 22.71)
+1159 Sat Dec 20 11:30:47 2025 Data insertion from sensor 21 succeeded
+1160 Sat Dec 20 11:30:47 2025 Sensor node 37 reports it's too hot (avg temp = 22.71)
+1161 Sat Dec 20 11:30:47 2025 Data insertion from sensor 37 succeeded
+1162 Sat Dec 20 11:30:47 2025 Sensor node 15 reports it's too hot (avg temp = 21.87)
+1163 Sat Dec 20 11:30:47 2025 Data insertion from sensor 15 succeeded
+1164 Sat Dec 20 11:30:48 2025 Sensor node 15 reports it's too hot (avg temp = 21.86)
+1165 Sat Dec 20 11:30:48 2025 Data insertion from sensor 15 succeeded
+1166 Sat Dec 20 11:30:49 2025 Sensor node 37 reports it's too hot (avg temp = 22.58)
+1167 Sat Dec 20 11:30:49 2025 Data insertion from sensor 37 succeeded
+1168 Sat Dec 20 11:30:49 2025 Sensor node 15 reports it's too hot (avg temp = 21.89)
+1169 Sat Dec 20 11:30:49 2025 Data insertion from sensor 15 succeeded
+1170 Sat Dec 20 11:30:50 2025 Sensor node 21 reports it's too hot (avg temp = 22.55)
+1171 Sat Dec 20 11:30:50 2025 Data insertion from sensor 21 succeeded
+1172 Sat Dec 20 11:30:50 2025 Sensor node 15 reports it's too hot (avg temp = 21.94)
+1173 Sat Dec 20 11:30:50 2025 Data insertion from sensor 15 succeeded
+1174 Sat Dec 20 11:30:51 2025 Sensor node 37 reports it's too hot (avg temp = 22.48)
+1175 Sat Dec 20 11:30:51 2025 Data insertion from sensor 37 succeeded
+1176 Sat Dec 20 11:30:51 2025 Sensor node 15 reports it's too hot (avg temp = 21.95)
+1177 Sat Dec 20 11:30:51 2025 Data insertion from sensor 15 succeeded
+1178 Sat Dec 20 11:30:52 2025 Sensor node 15 reports it's too hot (avg temp = 22.00)
+1179 Sat Dec 20 11:30:52 2025 Data insertion from sensor 15 succeeded
+1180 Sat Dec 20 11:30:53 2025 Sensor node 21 reports it's too hot (avg temp = 22.44)
+1181 Sat Dec 20 11:30:53 2025 Data insertion from sensor 21 succeeded
+1182 Sat Dec 20 11:30:53 2025 Sensor node 37 reports it's too hot (avg temp = 22.41)
+1183 Sat Dec 20 11:30:53 2025 Data insertion from sensor 37 succeeded
+1184 Sat Dec 20 11:30:53 2025 Sensor node 15 reports it's too hot (avg temp = 22.02)
+1185 Sat Dec 20 11:30:53 2025 Data insertion from sensor 15 succeeded
+1186 Sat Dec 20 11:30:54 2025 Sensor node 15 reports it's too hot (avg temp = 21.98)
+1187 Sat Dec 20 11:30:54 2025 Data insertion from sensor 15 succeeded
+1188 Sat Dec 20 11:30:55 2025 Sensor node 37 reports it's too hot (avg temp = 22.32)
+1189 Sat Dec 20 11:30:55 2025 Data insertion from sensor 37 succeeded
+1190 Sat Dec 20 11:30:55 2025 Sensor node 15 reports it's too hot (avg temp = 21.99)
+1191 Sat Dec 20 11:30:55 2025 Data insertion from sensor 15 succeeded
+1192 Sat Dec 20 11:30:56 2025 Sensor node 21 reports it's too hot (avg temp = 22.36)
+1193 Sat Dec 20 11:30:56 2025 Data insertion from sensor 21 succeeded
+1194 Sat Dec 20 11:30:56 2025 Sensor node 15 reports it's too hot (avg temp = 22.05)
+1195 Sat Dec 20 11:30:56 2025 Data insertion from sensor 15 succeeded
+1196 Sat Dec 20 11:30:57 2025 Sensor node 37 reports it's too hot (avg temp = 22.23)
+1197 Sat Dec 20 11:30:57 2025 Data insertion from sensor 37 succeeded
+1198 Sat Dec 20 11:30:57 2025 Sensor node 15 reports it's too hot (avg temp = 22.13)
+1199 Sat Dec 20 11:30:57 2025 Data insertion from sensor 15 succeeded
+1200 Sat Dec 20 11:30:58 2025 Sensor node 15 reports it's too hot (avg temp = 22.18)
+1201 Sat Dec 20 11:30:58 2025 Data insertion from sensor 15 succeeded
+1202 Sat Dec 20 11:30:59 2025 Sensor node 21 reports it's too hot (avg temp = 22.28)
+1203 Sat Dec 20 11:30:59 2025 Data insertion from sensor 21 succeeded
+1204 Sat Dec 20 11:30:59 2025 Data insertion from sensor 37 succeeded
+1205 Sat Dec 20 11:30:59 2025 Sensor node 37 reports it's too hot (avg temp = 22.18)
+1206 Sat Dec 20 11:30:59 2025 Sensor node 15 reports it's too hot (avg temp = 22.31)
+1207 Sat Dec 20 11:30:59 2025 Data insertion from sensor 15 succeeded
+1208 Sat Dec 20 11:31:00 2025 Sensor node 15 reports it's too hot (avg temp = 22.40)
+1209 Sat Dec 20 11:31:00 2025 Data insertion from sensor 15 succeeded
+1210 Sat Dec 20 11:31:01 2025 Sensor node 37 reports it's too hot (avg temp = 22.10)
+1211 Sat Dec 20 11:31:01 2025 Data insertion from sensor 37 succeeded
+1212 Sat Dec 20 11:31:01 2025 Sensor node 15 reports it's too hot (avg temp = 22.48)
+1213 Sat Dec 20 11:31:01 2025 Data insertion from sensor 15 succeeded
+1214 Sat Dec 20 11:31:02 2025 Sensor node 21 reports it's too hot (avg temp = 22.23)
+1215 Sat Dec 20 11:31:02 2025 Data insertion from sensor 21 succeeded
+1216 Sat Dec 20 11:31:02 2025 Sensor node 15 reports it's too hot (avg temp = 22.50)
+1217 Sat Dec 20 11:31:02 2025 Data insertion from sensor 15 succeeded
+1218 Sat Dec 20 11:31:03 2025 Sensor node 37 reports it's too hot (avg temp = 22.06)
+1219 Sat Dec 20 11:31:03 2025 Data insertion from sensor 37 succeeded
+1220 Sat Dec 20 11:31:03 2025 Sensor node 15 reports it's too hot (avg temp = 22.54)
+1221 Sat Dec 20 11:31:03 2025 Data insertion from sensor 15 succeeded
+1222 Sat Dec 20 11:31:04 2025 Sensor node 15 reports it's too hot (avg temp = 22.49)
+1223 Sat Dec 20 11:31:04 2025 Data insertion from sensor 15 succeeded
+1224 Sat Dec 20 11:31:05 2025 Sensor node 21 reports it's too hot (avg temp = 22.12)
+1225 Sat Dec 20 11:31:05 2025 Data insertion from sensor 21 succeeded
+1226 Sat Dec 20 11:31:05 2025 Sensor node 37 reports it's too hot (avg temp = 22.05)
+1227 Sat Dec 20 11:31:05 2025 Data insertion from sensor 37 succeeded
+1228 Sat Dec 20 11:31:05 2025 Data insertion from sensor 15 succeeded
+1229 Sat Dec 20 11:31:05 2025 Sensor node 15 reports it's too hot (avg temp = 22.46)
+1230 Sat Dec 20 11:31:06 2025 Data insertion from sensor 15 succeeded
+1231 Sat Dec 20 11:31:06 2025 Sensor node 15 reports it's too hot (avg temp = 22.36)
+1232 Sat Dec 20 11:31:07 2025 Sensor node 37 reports it's too hot (avg temp = 22.06)
+1233 Sat Dec 20 11:31:07 2025 Data insertion from sensor 37 succeeded
+1234 Sat Dec 20 11:31:07 2025 Sensor node 15 reports it's too hot (avg temp = 22.32)
+1235 Sat Dec 20 11:31:07 2025 Data insertion from sensor 15 succeeded
+1236 Sat Dec 20 11:31:08 2025 Sensor node 21 reports it's too hot (avg temp = 21.97)
+1237 Sat Dec 20 11:31:08 2025 Data insertion from sensor 21 succeeded
+1238 Sat Dec 20 11:31:08 2025 Sensor node 15 reports it's too hot (avg temp = 22.28)
+1239 Sat Dec 20 11:31:08 2025 Data insertion from sensor 15 succeeded
+1240 Sat Dec 20 11:31:09 2025 Sensor node 37 reports it's too hot (avg temp = 22.05)
+1241 Sat Dec 20 11:31:09 2025 Data insertion from sensor 37 succeeded
+1242 Sat Dec 20 11:31:09 2025 Sensor node 15 reports it's too hot (avg temp = 22.29)
+1243 Sat Dec 20 11:31:09 2025 Data insertion from sensor 15 succeeded
+1244 Sat Dec 20 11:31:10 2025 Sensor node 15 reports it's too hot (avg temp = 22.33)
+1245 Sat Dec 20 11:31:10 2025 Data insertion from sensor 15 succeeded
+1246 Sat Dec 20 11:31:11 2025 Sensor node 21 reports it's too hot (avg temp = 21.88)
+1247 Sat Dec 20 11:31:11 2025 Data insertion from sensor 21 succeeded
+1248 Sat Dec 20 11:31:11 2025 Sensor node 37 reports it's too hot (avg temp = 22.03)
+1249 Sat Dec 20 11:31:11 2025 Data insertion from sensor 37 succeeded
+1250 Sat Dec 20 11:31:11 2025 Sensor node 15 reports it's too hot (avg temp = 22.44)
+1251 Sat Dec 20 11:31:11 2025 Data insertion from sensor 15 succeeded
+1252 Sat Dec 20 11:31:12 2025 Sensor node 15 reports it's too hot (avg temp = 22.49)
+1253 Sat Dec 20 11:31:12 2025 Data insertion from sensor 15 succeeded
+1254 Sat Dec 20 11:31:13 2025 Data insertion from sensor 37 succeeded
+1255 Sat Dec 20 11:31:13 2025 Sensor node 37 reports it's too hot (avg temp = 21.94)
+1256 Sat Dec 20 11:31:13 2025 Sensor node 15 reports it's too hot (avg temp = 22.50)
+1257 Sat Dec 20 11:31:13 2025 Data insertion from sensor 15 succeeded
+1258 Sat Dec 20 11:31:14 2025 Sensor node 21 reports it's too hot (avg temp = 21.83)
+1259 Sat Dec 20 11:31:14 2025 Data insertion from sensor 21 succeeded
+1260 Sat Dec 20 11:31:14 2025 Sensor node 15 reports it's too hot (avg temp = 22.47)
+1261 Sat Dec 20 11:31:14 2025 Data insertion from sensor 15 succeeded
+1262 Sat Dec 20 11:31:15 2025 Sensor node 37 reports it's too hot (avg temp = 21.88)
+1263 Sat Dec 20 11:31:15 2025 Data insertion from sensor 37 succeeded
+1264 Sat Dec 20 11:31:15 2025 Sensor node 15 reports it's too hot (avg temp = 22.45)
+1265 Sat Dec 20 11:31:15 2025 Data insertion from sensor 15 succeeded
+1266 Sat Dec 20 11:31:16 2025 Sensor node 15 reports it's too hot (avg temp = 22.41)
+1267 Sat Dec 20 11:31:16 2025 Data insertion from sensor 15 succeeded
+1268 Sat Dec 20 11:31:17 2025 Sensor node 21 reports it's too hot (avg temp = 21.86)
+1269 Sat Dec 20 11:31:17 2025 Data insertion from sensor 21 succeeded
+1270 Sat Dec 20 11:31:17 2025 Sensor node 37 reports it's too hot (avg temp = 21.81)
+1271 Sat Dec 20 11:31:17 2025 Data insertion from sensor 37 succeeded
+1272 Sat Dec 20 11:31:17 2025 Sensor node 15 reports it's too hot (avg temp = 22.39)
+1273 Sat Dec 20 11:31:17 2025 Data insertion from sensor 15 succeeded
+1274 Sat Dec 20 11:31:18 2025 Sensor node 15 reports it's too hot (avg temp = 22.44)
+1275 Sat Dec 20 11:31:18 2025 Data insertion from sensor 15 succeeded
+1276 Sat Dec 20 11:31:19 2025 Sensor node 37 reports it's too hot (avg temp = 21.69)
+1277 Sat Dec 20 11:31:19 2025 Data insertion from sensor 37 succeeded
+1278 Sat Dec 20 11:31:19 2025 Sensor node 15 reports it's too hot (avg temp = 22.46)
+1279 Sat Dec 20 11:31:19 2025 Data insertion from sensor 15 succeeded
+1280 Sat Dec 20 11:31:20 2025 Data insertion from sensor 21 succeeded
+1281 Sat Dec 20 11:31:20 2025 Sensor node 21 reports it's too hot (avg temp = 21.95)
+1282 Sat Dec 20 11:31:20 2025 Sensor node 15 reports it's too hot (avg temp = 22.45)
+1283 Sat Dec 20 11:31:20 2025 Data insertion from sensor 15 succeeded
+1284 Sat Dec 20 11:31:21 2025 Data insertion from sensor 37 succeeded
+1285 Sat Dec 20 11:31:21 2025 Sensor node 37 reports it's too hot (avg temp = 21.58)
+1286 Sat Dec 20 11:31:21 2025 Sensor node 15 reports it's too hot (avg temp = 22.42)
+1287 Sat Dec 20 11:31:21 2025 Data insertion from sensor 15 succeeded
+1288 Sat Dec 20 11:31:22 2025 Sensor node 15 reports it's too hot (avg temp = 22.41)
+1289 Sat Dec 20 11:31:22 2025 Data insertion from sensor 15 succeeded
+1290 Sat Dec 20 11:31:23 2025 Sensor node 21 reports it's too hot (avg temp = 22.07)
+1291 Sat Dec 20 11:31:23 2025 Data insertion from sensor 21 succeeded
+1292 Sat Dec 20 11:31:23 2025 Sensor node 37 reports it's too hot (avg temp = 21.47)
+1293 Sat Dec 20 11:31:23 2025 Data insertion from sensor 37 succeeded
+1294 Sat Dec 20 11:31:23 2025 Sensor node 15 reports it's too hot (avg temp = 22.37)
+1295 Sat Dec 20 11:31:23 2025 Data insertion from sensor 15 succeeded
+1296 Sat Dec 20 11:31:24 2025 Sensor node 15 reports it's too hot (avg temp = 22.34)
+1297 Sat Dec 20 11:31:24 2025 Data insertion from sensor 15 succeeded
+1298 Sat Dec 20 11:31:25 2025 Sensor node 37 reports it's too hot (avg temp = 21.35)
+1299 Sat Dec 20 11:31:25 2025 Data insertion from sensor 37 succeeded
+1300 Sat Dec 20 11:31:25 2025 Sensor node 15 reports it's too hot (avg temp = 22.32)
+1301 Sat Dec 20 11:31:25 2025 Data insertion from sensor 15 succeeded
+1302 Sat Dec 20 11:31:26 2025 Sensor node 21 reports it's too hot (avg temp = 22.19)
+1303 Sat Dec 20 11:31:26 2025 Data insertion from sensor 21 succeeded
+1304 Sat Dec 20 11:31:26 2025 Sensor node 15 reports it's too hot (avg temp = 22.31)
+1305 Sat Dec 20 11:31:26 2025 Data insertion from sensor 15 succeeded
+1306 Sat Dec 20 11:31:27 2025 Sensor node 37 reports it's too hot (avg temp = 21.23)
+1307 Sat Dec 20 11:31:27 2025 Data insertion from sensor 37 succeeded
+1308 Sat Dec 20 11:31:27 2025 Sensor node 15 reports it's too hot (avg temp = 22.25)
+1309 Sat Dec 20 11:31:27 2025 Data insertion from sensor 15 succeeded
+1310 Sat Dec 20 11:31:28 2025 Data insertion from sensor 15 succeeded
+1311 Sat Dec 20 11:31:28 2025 Sensor node 15 reports it's too hot (avg temp = 22.16)
+1312 Sat Dec 20 11:31:29 2025 Sensor node 21 reports it's too hot (avg temp = 22.34)
+1313 Sat Dec 20 11:31:29 2025 Data insertion from sensor 21 succeeded
+1314 Sat Dec 20 11:31:29 2025 Sensor node 37 reports it's too hot (avg temp = 21.11)
+1315 Sat Dec 20 11:31:29 2025 Data insertion from sensor 37 succeeded
+1316 Sat Dec 20 11:31:29 2025 Sensor node 15 reports it's too hot (avg temp = 22.07)
+1317 Sat Dec 20 11:31:29 2025 Data insertion from sensor 15 succeeded
+1318 Sat Dec 20 11:31:30 2025 Sensor node 15 reports it's too hot (avg temp = 22.04)
+1319 Sat Dec 20 11:31:30 2025 Data insertion from sensor 15 succeeded
+1320 Sat Dec 20 11:31:31 2025 Sensor node 37 reports it's too hot (avg temp = 21.02)
+1321 Sat Dec 20 11:31:31 2025 Data insertion from sensor 37 succeeded
+1322 Sat Dec 20 11:31:31 2025 Sensor node 15 reports it's too hot (avg temp = 21.96)
+1323 Sat Dec 20 11:31:31 2025 Data insertion from sensor 15 succeeded
+1324 Sat Dec 20 11:31:32 2025 Sensor node 21 reports it's too hot (avg temp = 22.44)
+1325 Sat Dec 20 11:31:32 2025 Data insertion from sensor 21 succeeded
+1326 Sat Dec 20 11:31:32 2025 Sensor node 15 reports it's too hot (avg temp = 21.88)
+1327 Sat Dec 20 11:31:32 2025 Data insertion from sensor 15 succeeded
+1328 Sat Dec 20 11:31:33 2025 Sensor node 37 reports it's too hot (avg temp = 20.98)
+1329 Sat Dec 20 11:31:33 2025 Data insertion from sensor 37 succeeded
+1330 Sat Dec 20 11:31:33 2025 Sensor node 15 reports it's too hot (avg temp = 21.77)
+1331 Sat Dec 20 11:31:33 2025 Data insertion from sensor 15 succeeded
+1332 Sat Dec 20 11:31:34 2025 Sensor node 15 reports it's too hot (avg temp = 21.73)
+1333 Sat Dec 20 11:31:34 2025 Data insertion from sensor 15 succeeded
+1334 Sat Dec 20 11:31:35 2025 Sensor node 21 reports it's too hot (avg temp = 22.47)
+1335 Sat Dec 20 11:31:35 2025 Data insertion from sensor 21 succeeded
+1336 Sat Dec 20 11:31:35 2025 Data insertion from sensor 37 succeeded
+1337 Sat Dec 20 11:31:35 2025 Sensor node 37 reports it's too hot (avg temp = 20.96)
+1338 Sat Dec 20 11:31:35 2025 Sensor node 15 reports it's too hot (avg temp = 21.62)
+1339 Sat Dec 20 11:31:35 2025 Data insertion from sensor 15 succeeded
+1340 Sat Dec 20 11:31:36 2025 Sensor node 15 reports it's too hot (avg temp = 21.48)
+1341 Sat Dec 20 11:31:36 2025 Data insertion from sensor 15 succeeded
+1342 Sat Dec 20 11:31:37 2025 Data insertion from sensor 37 succeeded
+1343 Sat Dec 20 11:31:37 2025 Sensor node 37 reports it's too hot (avg temp = 20.94)
+1344 Sat Dec 20 11:31:37 2025 Sensor node 15 reports it's too hot (avg temp = 21.40)
+1345 Sat Dec 20 11:31:37 2025 Data insertion from sensor 15 succeeded
+1346 Sat Dec 20 11:31:38 2025 Sensor node 21 reports it's too hot (avg temp = 22.52)
+1347 Sat Dec 20 11:31:38 2025 Data insertion from sensor 21 succeeded
+1348 Sat Dec 20 11:31:38 2025 Data insertion from sensor 15 succeeded
+1349 Sat Dec 20 11:31:38 2025 Sensor node 15 reports it's too hot (avg temp = 21.39)
+1350 Sat Dec 20 11:31:39 2025 Sensor node 37 reports it's too hot (avg temp = 20.97)
+1351 Sat Dec 20 11:31:39 2025 Data insertion from sensor 37 succeeded
+1352 Sat Dec 20 11:31:39 2025 Data insertion from sensor 15 succeeded
+1353 Sat Dec 20 11:31:39 2025 Sensor node 15 reports it's too hot (avg temp = 21.38)
+1354 Sat Dec 20 11:31:40 2025 Data insertion from sensor 15 succeeded
+1355 Sat Dec 20 11:31:40 2025 Sensor node 15 reports it's too hot (avg temp = 21.46)
+1356 Sat Dec 20 11:31:41 2025 Sensor node 21 reports it's too hot (avg temp = 22.53)
+1357 Sat Dec 20 11:31:41 2025 Data insertion from sensor 21 succeeded
+1358 Sat Dec 20 11:31:41 2025 Sensor node 37 reports it's too hot (avg temp = 20.98)
+1359 Sat Dec 20 11:31:41 2025 Data insertion from sensor 37 succeeded
+1360 Sat Dec 20 11:31:41 2025 Data insertion from sensor 15 succeeded
+1361 Sat Dec 20 11:31:41 2025 Sensor node 15 reports it's too hot (avg temp = 21.62)
+1362 Sat Dec 20 11:31:42 2025 Data insertion from sensor 15 succeeded
+1363 Sat Dec 20 11:31:42 2025 Sensor node 15 reports it's too hot (avg temp = 21.80)
+1364 Sat Dec 20 11:31:43 2025 Sensor node 37 reports it's too hot (avg temp = 20.93)
+1365 Sat Dec 20 11:31:43 2025 Data insertion from sensor 37 succeeded
+1366 Sat Dec 20 11:31:43 2025 Sensor node 15 reports it's too hot (avg temp = 21.95)
+1367 Sat Dec 20 11:31:43 2025 Data insertion from sensor 15 succeeded
+1368 Sat Dec 20 11:31:44 2025 Sensor node 21 reports it's too hot (avg temp = 22.50)
+1369 Sat Dec 20 11:31:44 2025 Data insertion from sensor 21 succeeded
+1370 Sat Dec 20 11:31:44 2025 Sensor node 15 reports it's too hot (avg temp = 22.09)
+1371 Sat Dec 20 11:31:44 2025 Data insertion from sensor 15 succeeded
+1372 Sat Dec 20 11:31:45 2025 Sensor node 37 reports it's too hot (avg temp = 20.90)
+1373 Sat Dec 20 11:31:45 2025 Data insertion from sensor 37 succeeded
+1374 Sat Dec 20 11:31:45 2025 Data insertion from sensor 15 succeeded
+1375 Sat Dec 20 11:31:45 2025 Sensor node 15 reports it's too hot (avg temp = 22.22)
+1376 Sat Dec 20 11:31:46 2025 Sensor node 15 reports it's too hot (avg temp = 22.36)
+1377 Sat Dec 20 11:31:46 2025 Data insertion from sensor 15 succeeded
+1378 Sat Dec 20 11:31:47 2025 Sensor node 21 reports it's too hot (avg temp = 22.49)
+1379 Sat Dec 20 11:31:47 2025 Data insertion from sensor 21 succeeded
+1380 Sat Dec 20 11:31:47 2025 Sensor node 37 reports it's too hot (avg temp = 20.86)
+1381 Sat Dec 20 11:31:47 2025 Data insertion from sensor 37 succeeded
+1382 Sat Dec 20 11:31:47 2025 Sensor node 15 reports it's too hot (avg temp = 22.50)
+1383 Sat Dec 20 11:31:47 2025 Data insertion from sensor 15 succeeded
+1384 Sat Dec 20 11:31:48 2025 Sensor node 15 reports it's too hot (avg temp = 22.61)
+1385 Sat Dec 20 11:31:48 2025 Data insertion from sensor 15 succeeded
+1386 Sat Dec 20 11:31:49 2025 Sensor node 37 reports it's too hot (avg temp = 20.85)
+1387 Sat Dec 20 11:31:49 2025 Data insertion from sensor 37 succeeded
+1388 Sat Dec 20 11:31:49 2025 Sensor node 15 reports it's too hot (avg temp = 22.75)
+1389 Sat Dec 20 11:31:49 2025 Data insertion from sensor 15 succeeded
+1390 Sat Dec 20 11:31:50 2025 Data insertion from sensor 21 succeeded
+1391 Sat Dec 20 11:31:50 2025 Sensor node 21 reports it's too hot (avg temp = 22.56)
+1392 Sat Dec 20 11:31:50 2025 Sensor node 15 reports it's too hot (avg temp = 22.82)
+1393 Sat Dec 20 11:31:50 2025 Data insertion from sensor 15 succeeded
+1394 Sat Dec 20 11:31:51 2025 Sensor node 37 reports it's too hot (avg temp = 20.87)
+1395 Sat Dec 20 11:31:51 2025 Data insertion from sensor 37 succeeded
+1396 Sat Dec 20 11:31:51 2025 Sensor node 15 reports it's too hot (avg temp = 22.87)
+1397 Sat Dec 20 11:31:51 2025 Data insertion from sensor 15 succeeded
+1398 Sat Dec 20 11:31:52 2025 Sensor node 15 reports it's too hot (avg temp = 22.85)
+1399 Sat Dec 20 11:31:52 2025 Data insertion from sensor 15 succeeded
+1400 Sat Dec 20 11:31:53 2025 Data insertion from sensor 21 succeeded
+1401 Sat Dec 20 11:31:53 2025 Sensor node 21 reports it's too hot (avg temp = 22.62)
+1402 Sat Dec 20 11:31:53 2025 Sensor node 37 reports it's too hot (avg temp = 20.90)
+1403 Sat Dec 20 11:31:53 2025 Data insertion from sensor 37 succeeded
+1404 Sat Dec 20 11:31:53 2025 Data insertion from sensor 15 succeeded
+1405 Sat Dec 20 11:31:53 2025 Sensor node 15 reports it's too hot (avg temp = 22.84)
+1406 Sat Dec 20 11:31:54 2025 Sensor node 15 reports it's too hot (avg temp = 22.73)
+1407 Sat Dec 20 11:31:54 2025 Data insertion from sensor 15 succeeded
+1408 Sat Dec 20 11:31:55 2025 Sensor node 37 reports it's too hot (avg temp = 20.87)
+1409 Sat Dec 20 11:31:55 2025 Data insertion from sensor 37 succeeded
+1410 Sat Dec 20 11:31:55 2025 Sensor node 15 reports it's too hot (avg temp = 22.62)
+1411 Sat Dec 20 11:31:55 2025 Data insertion from sensor 15 succeeded
+1412 Sat Dec 20 11:31:56 2025 Sensor node 21 reports it's too hot (avg temp = 22.69)
+1413 Sat Dec 20 11:31:56 2025 Data insertion from sensor 21 succeeded
+1414 Sat Dec 20 11:31:56 2025 Sensor node 15 reports it's too hot (avg temp = 22.49)
+1415 Sat Dec 20 11:31:56 2025 Data insertion from sensor 15 succeeded
+1416 Sat Dec 20 11:31:57 2025 Sensor node 37 reports it's too hot (avg temp = 20.84)
+1417 Sat Dec 20 11:31:57 2025 Data insertion from sensor 37 succeeded
+1418 Sat Dec 20 11:31:57 2025 Sensor node 15 reports it's too hot (avg temp = 22.44)
+1419 Sat Dec 20 11:31:57 2025 Data insertion from sensor 15 succeeded
+1420 Sat Dec 20 11:31:58 2025 Sensor node 15 reports it's too hot (avg temp = 22.38)
+1421 Sat Dec 20 11:31:58 2025 Data insertion from sensor 15 succeeded
+1422 Sat Dec 20 11:31:59 2025 Sensor node 21 reports it's too hot (avg temp = 22.73)
+1423 Sat Dec 20 11:31:59 2025 Data insertion from sensor 21 succeeded
+1424 Sat Dec 20 11:31:59 2025 Sensor node 37 reports it's too hot (avg temp = 20.74)
+1425 Sat Dec 20 11:31:59 2025 Data insertion from sensor 37 succeeded
+1426 Sat Dec 20 11:31:59 2025 Sensor node 15 reports it's too hot (avg temp = 22.36)
+1427 Sat Dec 20 11:31:59 2025 Data insertion from sensor 15 succeeded
+1428 Sat Dec 20 11:32:00 2025 Sensor node 15 reports it's too hot (avg temp = 22.39)
+1429 Sat Dec 20 11:32:00 2025 Data insertion from sensor 15 succeeded
+1430 Sat Dec 20 11:32:01 2025 Sensor node 37 reports it's too hot (avg temp = 20.63)
+1431 Sat Dec 20 11:32:01 2025 Data insertion from sensor 37 succeeded
+1432 Sat Dec 20 11:32:01 2025 Sensor node 15 reports it's too hot (avg temp = 22.48)
+1433 Sat Dec 20 11:32:01 2025 Data insertion from sensor 15 succeeded
+1434 Sat Dec 20 11:32:02 2025 Sensor node 21 reports it's too hot (avg temp = 22.76)
+1435 Sat Dec 20 11:32:02 2025 Data insertion from sensor 21 succeeded
+1436 Sat Dec 20 11:32:02 2025 Sensor node 15 reports it's too hot (avg temp = 22.47)
+1437 Sat Dec 20 11:32:02 2025 Data insertion from sensor 15 succeeded
+1438 Sat Dec 20 11:32:03 2025 Sensor node 37 reports it's too hot (avg temp = 20.55)
+1439 Sat Dec 20 11:32:03 2025 Data insertion from sensor 37 succeeded
+1440 Sat Dec 20 11:32:03 2025 Sensor node 15 reports it's too hot (avg temp = 22.51)
+1441 Sat Dec 20 11:32:03 2025 Data insertion from sensor 15 succeeded
+1442 Sat Dec 20 11:32:04 2025 Sensor node 15 reports it's too hot (avg temp = 22.58)
+1443 Sat Dec 20 11:32:04 2025 Data insertion from sensor 15 succeeded
+1444 Sat Dec 20 11:32:05 2025 Data insertion from sensor 21 succeeded
+1445 Sat Dec 20 11:32:05 2025 Sensor node 21 reports it's too hot (avg temp = 22.76)
+1446 Sat Dec 20 11:32:05 2025 Sensor node 37 reports it's too hot (avg temp = 20.51)
+1447 Sat Dec 20 11:32:05 2025 Data insertion from sensor 37 succeeded
+1448 Sat Dec 20 11:32:05 2025 Data insertion from sensor 15 succeeded
+1449 Sat Dec 20 11:32:05 2025 Sensor node 15 reports it's too hot (avg temp = 22.67)
+1450 Sat Dec 20 11:32:06 2025 Sensor node 15 reports it's too hot (avg temp = 22.66)
+1451 Sat Dec 20 11:32:06 2025 Data insertion from sensor 15 succeeded
+1452 Sat Dec 20 11:32:07 2025 Sensor node 37 reports it's too hot (avg temp = 20.52)
+1453 Sat Dec 20 11:32:07 2025 Data insertion from sensor 37 succeeded
+1454 Sat Dec 20 11:32:07 2025 Sensor node 15 reports it's too hot (avg temp = 22.73)
+1455 Sat Dec 20 11:32:07 2025 Data insertion from sensor 15 succeeded
+1456 Sat Dec 20 11:32:08 2025 Data insertion from sensor 21 succeeded
+1457 Sat Dec 20 11:32:08 2025 Sensor node 21 reports it's too hot (avg temp = 22.73)
+1458 Sat Dec 20 11:32:08 2025 Sensor node 15 reports it's too hot (avg temp = 22.80)
+1459 Sat Dec 20 11:32:08 2025 Data insertion from sensor 15 succeeded
+1460 Sat Dec 20 11:32:09 2025 Sensor node 37 reports it's too hot (avg temp = 20.61)
+1461 Sat Dec 20 11:32:09 2025 Data insertion from sensor 37 succeeded
+1462 Sat Dec 20 11:32:09 2025 Sensor node 15 reports it's too hot (avg temp = 22.86)
+1463 Sat Dec 20 11:32:09 2025 Data insertion from sensor 15 succeeded
+1464 Sat Dec 20 11:32:10 2025 Sensor node 15 reports it's too hot (avg temp = 22.85)
+1465 Sat Dec 20 11:32:10 2025 Data insertion from sensor 15 succeeded
+1466 Sat Dec 20 11:32:11 2025 Sensor node 21 reports it's too hot (avg temp = 22.67)
+1467 Sat Dec 20 11:32:11 2025 Data insertion from sensor 21 succeeded
+1468 Sat Dec 20 11:32:11 2025 Sensor node 37 reports it's too hot (avg temp = 20.75)
+1469 Sat Dec 20 11:32:11 2025 Data insertion from sensor 37 succeeded
+1470 Sat Dec 20 11:32:11 2025 Sensor node 15 reports it's too hot (avg temp = 22.88)
+1471 Sat Dec 20 11:32:11 2025 Data insertion from sensor 15 succeeded
+1472 Sat Dec 20 11:32:12 2025 Sensor node 15 reports it's too hot (avg temp = 22.84)
+1473 Sat Dec 20 11:32:12 2025 Data insertion from sensor 15 succeeded
+1474 Sat Dec 20 11:32:13 2025 Sensor node 37 reports it's too hot (avg temp = 20.93)
+1475 Sat Dec 20 11:32:13 2025 Data insertion from sensor 37 succeeded
+1476 Sat Dec 20 11:32:13 2025 Sensor node 15 reports it's too hot (avg temp = 22.73)
+1477 Sat Dec 20 11:32:13 2025 Data insertion from sensor 15 succeeded
+1478 Sat Dec 20 11:32:14 2025 Sensor node 21 reports it's too hot (avg temp = 22.67)
+1479 Sat Dec 20 11:32:14 2025 Data insertion from sensor 21 succeeded
+1480 Sat Dec 20 11:32:14 2025 Sensor node 15 reports it's too hot (avg temp = 22.65)
+1481 Sat Dec 20 11:32:14 2025 Data insertion from sensor 15 succeeded
+1482 Sat Dec 20 11:32:15 2025 Sensor node 37 reports it's too hot (avg temp = 21.06)
+1483 Sat Dec 20 11:32:15 2025 Data insertion from sensor 37 succeeded
+1484 Sat Dec 20 11:32:15 2025 Sensor node 15 reports it's too hot (avg temp = 22.65)
+1485 Sat Dec 20 11:32:15 2025 Data insertion from sensor 15 succeeded
+1486 Sat Dec 20 11:32:16 2025 Sensor node 15 reports it's too hot (avg temp = 22.62)
+1487 Sat Dec 20 11:32:16 2025 Data insertion from sensor 15 succeeded
+1488 Sat Dec 20 11:32:17 2025 Sensor node 21 reports it's too hot (avg temp = 22.66)
+1489 Sat Dec 20 11:32:17 2025 Data insertion from sensor 21 succeeded
+1490 Sat Dec 20 11:32:17 2025 Sensor node 37 reports it's too hot (avg temp = 21.17)
+1491 Sat Dec 20 11:32:17 2025 Data insertion from sensor 37 succeeded
+1492 Sat Dec 20 11:32:17 2025 Sensor node 15 reports it's too hot (avg temp = 22.63)
+1493 Sat Dec 20 11:32:17 2025 Data insertion from sensor 15 succeeded
+1494 Sat Dec 20 11:32:18 2025 Sensor node 15 reports it's too hot (avg temp = 22.72)
+1495 Sat Dec 20 11:32:18 2025 Data insertion from sensor 15 succeeded
+1496 Sat Dec 20 11:32:19 2025 Sensor node 37 reports it's too hot (avg temp = 21.25)
+1497 Sat Dec 20 11:32:19 2025 Data insertion from sensor 37 succeeded
+1498 Sat Dec 20 11:32:19 2025 Sensor node 15 reports it's too hot (avg temp = 22.79)
+1499 Sat Dec 20 11:32:19 2025 Data insertion from sensor 15 succeeded
+1500 Sat Dec 20 11:32:20 2025 Sensor node 21 reports it's too hot (avg temp = 22.68)
+1501 Sat Dec 20 11:32:20 2025 Data insertion from sensor 21 succeeded
+1502 Sat Dec 20 11:32:20 2025 Sensor node 15 reports it's too hot (avg temp = 22.87)
+1503 Sat Dec 20 11:32:20 2025 Data insertion from sensor 15 succeeded
+1504 Sat Dec 20 11:32:21 2025 Sensor node 37 reports it's too hot (avg temp = 21.32)
+1505 Sat Dec 20 11:32:21 2025 Data insertion from sensor 37 succeeded
+1506 Sat Dec 20 11:32:21 2025 Sensor node 15 reports it's too hot (avg temp = 23.02)
+1507 Sat Dec 20 11:32:21 2025 Data insertion from sensor 15 succeeded
+1508 Sat Dec 20 11:32:22 2025 Sensor node 15 reports it's too hot (avg temp = 23.16)
+1509 Sat Dec 20 11:32:22 2025 Data insertion from sensor 15 succeeded
+1510 Sat Dec 20 11:32:23 2025 Sensor node 21 reports it's too hot (avg temp = 22.73)
+1511 Sat Dec 20 11:32:23 2025 Data insertion from sensor 21 succeeded
+1512 Sat Dec 20 11:32:23 2025 Sensor node 37 reports it's too hot (avg temp = 21.37)
+1513 Sat Dec 20 11:32:23 2025 Data insertion from sensor 37 succeeded
+1514 Sat Dec 20 11:32:23 2025 Sensor node 15 reports it's too hot (avg temp = 23.22)
+1515 Sat Dec 20 11:32:23 2025 Data insertion from sensor 15 succeeded
+1516 Sat Dec 20 11:32:24 2025 Sensor node 15 reports it's too hot (avg temp = 23.29)
+1517 Sat Dec 20 11:32:24 2025 Data insertion from sensor 15 succeeded
+1518 Sat Dec 20 11:32:25 2025 Sensor node 37 reports it's too hot (avg temp = 21.45)
+1519 Sat Dec 20 11:32:25 2025 Data insertion from sensor 37 succeeded
+1520 Sat Dec 20 11:32:25 2025 Sensor node 15 reports it's too hot (avg temp = 23.37)
+1521 Sat Dec 20 11:32:25 2025 Data insertion from sensor 15 succeeded
+1522 Sat Dec 20 11:32:26 2025 Data insertion from sensor 21 succeeded
+1523 Sat Dec 20 11:32:26 2025 Sensor node 21 reports it's too hot (avg temp = 22.76)
+1524 Sat Dec 20 11:32:26 2025 Sensor node 15 reports it's too hot (avg temp = 23.45)
+1525 Sat Dec 20 11:32:26 2025 Data insertion from sensor 15 succeeded
+1526 Sat Dec 20 11:32:27 2025 Sensor node 37 reports it's too hot (avg temp = 21.49)
+1527 Sat Dec 20 11:32:27 2025 Data insertion from sensor 37 succeeded
+1528 Sat Dec 20 11:32:27 2025 Sensor node 15 reports it's too hot (avg temp = 23.55)
+1529 Sat Dec 20 11:32:27 2025 Data insertion from sensor 15 succeeded
+1530 Sat Dec 20 11:32:28 2025 Sensor node 15 reports it's too hot (avg temp = 23.72)
+1531 Sat Dec 20 11:32:28 2025 Data insertion from sensor 15 succeeded
+1532 Sat Dec 20 11:32:29 2025 Sensor node 21 reports it's too hot (avg temp = 22.75)
+1533 Sat Dec 20 11:32:29 2025 Data insertion from sensor 21 succeeded
+1534 Sat Dec 20 11:32:29 2025 Sensor node 37 reports it's too hot (avg temp = 21.51)
+1535 Sat Dec 20 11:32:29 2025 Data insertion from sensor 37 succeeded
+1536 Sat Dec 20 11:32:29 2025 Sensor node 15 reports it's too hot (avg temp = 23.86)
+1537 Sat Dec 20 11:32:29 2025 Data insertion from sensor 15 succeeded
+1538 Sat Dec 20 11:32:30 2025 Sensor node 15 reports it's too hot (avg temp = 23.94)
+1539 Sat Dec 20 11:32:30 2025 Data insertion from sensor 15 succeeded
+1540 Sat Dec 20 11:32:31 2025 Sensor node 37 reports it's too hot (avg temp = 21.51)
+1541 Sat Dec 20 11:32:31 2025 Data insertion from sensor 37 succeeded
+1542 Sat Dec 20 11:32:31 2025 Sensor node 15 reports it's too hot (avg temp = 23.99)
+1543 Sat Dec 20 11:32:31 2025 Data insertion from sensor 15 succeeded
+1544 Sat Dec 20 11:32:32 2025 Sensor node 21 reports it's too hot (avg temp = 22.73)
+1545 Sat Dec 20 11:32:32 2025 Data insertion from sensor 21 succeeded
+1546 Sat Dec 20 11:32:32 2025 Sensor node 15 reports it's too hot (avg temp = 24.03)
+1547 Sat Dec 20 11:32:32 2025 Data insertion from sensor 15 succeeded
+1548 Sat Dec 20 11:32:33 2025 Sensor node 37 reports it's too hot (avg temp = 21.47)
+1549 Sat Dec 20 11:32:33 2025 Data insertion from sensor 37 succeeded
+1550 Sat Dec 20 11:32:33 2025 Sensor node 15 reports it's too hot (avg temp = 24.05)
+1551 Sat Dec 20 11:32:33 2025 Data insertion from sensor 15 succeeded
+1552 Sat Dec 20 11:32:34 2025 Sensor node 15 reports it's too hot (avg temp = 24.06)
+1553 Sat Dec 20 11:32:34 2025 Data insertion from sensor 15 succeeded
+1554 Sat Dec 20 11:32:35 2025 Sensor node 21 reports it's too hot (avg temp = 22.64)
+1555 Sat Dec 20 11:32:35 2025 Data insertion from sensor 21 succeeded
+1556 Sat Dec 20 11:32:35 2025 Sensor node 37 reports it's too hot (avg temp = 21.40)
+1557 Sat Dec 20 11:32:35 2025 Data insertion from sensor 37 succeeded
+1558 Sat Dec 20 11:32:35 2025 Sensor node 15 reports it's too hot (avg temp = 24.06)
+1559 Sat Dec 20 11:32:35 2025 Data insertion from sensor 15 succeeded
+1560 Sat Dec 20 11:32:36 2025 Sensor node 15 reports it's too hot (avg temp = 24.01)
+1561 Sat Dec 20 11:32:36 2025 Data insertion from sensor 15 succeeded
+1562 Sat Dec 20 11:32:37 2025 Sensor node 37 reports it's too hot (avg temp = 21.37)
+1563 Sat Dec 20 11:32:37 2025 Data insertion from sensor 37 succeeded
+1564 Sat Dec 20 11:32:37 2025 Sensor node 15 reports it's too hot (avg temp = 23.92)
+1565 Sat Dec 20 11:32:37 2025 Data insertion from sensor 15 succeeded
+1566 Sat Dec 20 11:32:38 2025 Sensor node 21 reports it's too hot (avg temp = 22.59)
+1567 Sat Dec 20 11:32:38 2025 Data insertion from sensor 21 succeeded
+1568 Sat Dec 20 11:32:38 2025 Data insertion from sensor 15 succeeded
+1569 Sat Dec 20 11:32:38 2025 Sensor node 15 reports it's too hot (avg temp = 23.80)
+1570 Sat Dec 20 11:32:39 2025 Data insertion from sensor 37 succeeded
+1571 Sat Dec 20 11:32:39 2025 Sensor node 37 reports it's too hot (avg temp = 21.31)
+1572 Sat Dec 20 11:32:39 2025 Sensor node 15 reports it's too hot (avg temp = 23.66)
+1573 Sat Dec 20 11:32:39 2025 Data insertion from sensor 15 succeeded
+1574 Sat Dec 20 11:32:40 2025 Sensor node 15 reports it's too hot (avg temp = 23.55)
+1575 Sat Dec 20 11:32:40 2025 Data insertion from sensor 15 succeeded
+1576 Sat Dec 20 11:32:41 2025 Sensor node 21 reports it's too hot (avg temp = 22.55)
+1577 Sat Dec 20 11:32:41 2025 Data insertion from sensor 21 succeeded
+1578 Sat Dec 20 11:32:41 2025 Data insertion from sensor 37 succeeded
+1579 Sat Dec 20 11:32:41 2025 Sensor node 37 reports it's too hot (avg temp = 21.19)
+1580 Sat Dec 20 11:32:41 2025 Sensor node 15 reports it's too hot (avg temp = 23.50)
+1581 Sat Dec 20 11:32:41 2025 Data insertion from sensor 15 succeeded
+1582 Sat Dec 20 11:32:42 2025 Sensor node 15 reports it's too hot (avg temp = 23.50)
+1583 Sat Dec 20 11:32:42 2025 Data insertion from sensor 15 succeeded
+1584 Sat Dec 20 11:32:43 2025 Sensor node 37 reports it's too hot (avg temp = 21.15)
+1585 Sat Dec 20 11:32:43 2025 Data insertion from sensor 37 succeeded
+1586 Sat Dec 20 11:32:43 2025 Sensor node 15 reports it's too hot (avg temp = 23.52)
+1587 Sat Dec 20 11:32:43 2025 Data insertion from sensor 15 succeeded
+1588 Sat Dec 20 11:32:44 2025 Data insertion from sensor 21 succeeded
+1589 Sat Dec 20 11:32:44 2025 Sensor node 21 reports it's too hot (avg temp = 22.55)
+1590 Sat Dec 20 11:32:44 2025 Sensor node 15 reports it's too hot (avg temp = 23.59)
+1591 Sat Dec 20 11:32:44 2025 Data insertion from sensor 15 succeeded
+1592 Sat Dec 20 11:32:45 2025 Sensor node 37 reports it's too hot (avg temp = 21.10)
+1593 Sat Dec 20 11:32:45 2025 Data insertion from sensor 37 succeeded
+1594 Sat Dec 20 11:32:45 2025 Sensor node 15 reports it's too hot (avg temp = 23.66)
+1595 Sat Dec 20 11:32:45 2025 Data insertion from sensor 15 succeeded
+1596 Sat Dec 20 11:32:46 2025 Data insertion from sensor 15 succeeded
+1597 Sat Dec 20 11:32:46 2025 Sensor node 15 reports it's too hot (avg temp = 23.74)
+1598 Sat Dec 20 11:32:47 2025 Sensor node 21 reports it's too hot (avg temp = 22.58)
+1599 Sat Dec 20 11:32:47 2025 Data insertion from sensor 21 succeeded
+1600 Sat Dec 20 11:32:47 2025 Sensor node 37 reports it's too hot (avg temp = 21.04)
+1601 Sat Dec 20 11:32:47 2025 Data insertion from sensor 37 succeeded
+1602 Sat Dec 20 11:32:47 2025 Sensor node 15 reports it's too hot (avg temp = 23.73)
+1603 Sat Dec 20 11:32:47 2025 Data insertion from sensor 15 succeeded
+1604 Sat Dec 20 11:32:48 2025 Sensor node 15 reports it's too hot (avg temp = 23.74)
+1605 Sat Dec 20 11:32:48 2025 Data insertion from sensor 15 succeeded
+1606 Sat Dec 20 11:32:49 2025 Data insertion from sensor 37 succeeded
+1607 Sat Dec 20 11:32:49 2025 Sensor node 37 reports it's too hot (avg temp = 21.05)
+1608 Sat Dec 20 11:32:49 2025 Sensor node 15 reports it's too hot (avg temp = 23.71)
+1609 Sat Dec 20 11:32:49 2025 Data insertion from sensor 15 succeeded
+1610 Sat Dec 20 11:32:50 2025 Sensor node 21 reports it's too hot (avg temp = 22.66)
+1611 Sat Dec 20 11:32:50 2025 Data insertion from sensor 21 succeeded
+1612 Sat Dec 20 11:32:50 2025 Sensor node 15 reports it's too hot (avg temp = 23.64)
+1613 Sat Dec 20 11:32:50 2025 Data insertion from sensor 15 succeeded
+1614 Sat Dec 20 11:32:51 2025 Sensor node 37 reports it's too hot (avg temp = 21.10)
+1615 Sat Dec 20 11:32:51 2025 Data insertion from sensor 37 succeeded
+1616 Sat Dec 20 11:32:51 2025 Sensor node 15 reports it's too hot (avg temp = 23.56)
+1617 Sat Dec 20 11:32:51 2025 Data insertion from sensor 15 succeeded
+1618 Sat Dec 20 11:32:52 2025 Sensor node 15 reports it's too hot (avg temp = 23.54)
+1619 Sat Dec 20 11:32:52 2025 Data insertion from sensor 15 succeeded
+1620 Sat Dec 20 11:32:53 2025 Sensor node 21 reports it's too hot (avg temp = 22.70)
+1621 Sat Dec 20 11:32:53 2025 Data insertion from sensor 21 succeeded
+1622 Sat Dec 20 11:32:53 2025 Sensor node 37 reports it's too hot (avg temp = 21.13)
+1623 Sat Dec 20 11:32:53 2025 Data insertion from sensor 37 succeeded
+1624 Sat Dec 20 11:32:53 2025 Data insertion from sensor 15 succeeded
+1625 Sat Dec 20 11:32:53 2025 Sensor node 15 reports it's too hot (avg temp = 23.55)
+1626 Sat Dec 20 11:32:54 2025 Sensor node 15 reports it's too hot (avg temp = 23.58)
+1627 Sat Dec 20 11:32:54 2025 Data insertion from sensor 15 succeeded
+1628 Sat Dec 20 11:32:55 2025 Sensor node 37 reports it's too hot (avg temp = 21.20)
+1629 Sat Dec 20 11:32:55 2025 Data insertion from sensor 37 succeeded
+1630 Sat Dec 20 11:32:55 2025 Sensor node 15 reports it's too hot (avg temp = 23.67)
+1631 Sat Dec 20 11:32:55 2025 Data insertion from sensor 15 succeeded
+1632 Sat Dec 20 11:32:56 2025 Sensor node 21 reports it's too hot (avg temp = 22.77)
+1633 Sat Dec 20 11:32:56 2025 Data insertion from sensor 21 succeeded
+1634 Sat Dec 20 11:32:56 2025 Sensor node 15 reports it's too hot (avg temp = 23.76)
+1635 Sat Dec 20 11:32:56 2025 Data insertion from sensor 15 succeeded
+1636 Sat Dec 20 11:32:57 2025 Sensor node 37 reports it's too hot (avg temp = 21.22)
+1637 Sat Dec 20 11:32:57 2025 Data insertion from sensor 37 succeeded
+1638 Sat Dec 20 11:32:57 2025 Data insertion from sensor 15 succeeded
+1639 Sat Dec 20 11:32:57 2025 Sensor node 15 reports it's too hot (avg temp = 23.83)
+1640 Sat Dec 20 11:32:58 2025 Sensor node 15 reports it's too hot (avg temp = 23.85)
+1641 Sat Dec 20 11:32:58 2025 Data insertion from sensor 15 succeeded
+1642 Sat Dec 20 11:32:59 2025 Sensor node 21 reports it's too hot (avg temp = 22.83)
+1643 Sat Dec 20 11:32:59 2025 Data insertion from sensor 21 succeeded
+1644 Sat Dec 20 11:32:59 2025 Sensor node 37 reports it's too hot (avg temp = 21.19)
+1645 Sat Dec 20 11:32:59 2025 Data insertion from sensor 37 succeeded
+1646 Sat Dec 20 11:32:59 2025 Sensor node 15 reports it's too hot (avg temp = 23.81)
+1647 Sat Dec 20 11:32:59 2025 Data insertion from sensor 15 succeeded
+1648 Sat Dec 20 11:33:00 2025 Sensor node 15 reports it's too hot (avg temp = 23.78)
+1649 Sat Dec 20 11:33:00 2025 Data insertion from sensor 15 succeeded
+1650 Sat Dec 20 11:33:01 2025 Data insertion from sensor 37 succeeded
+1651 Sat Dec 20 11:33:01 2025 Sensor node 37 reports it's too hot (avg temp = 21.14)
+1652 Sat Dec 20 11:33:01 2025 Sensor node 15 reports it's too hot (avg temp = 23.71)
+1653 Sat Dec 20 11:33:01 2025 Data insertion from sensor 15 succeeded
+1654 Sat Dec 20 11:33:02 2025 Sensor node 21 reports it's too hot (avg temp = 22.90)
+1655 Sat Dec 20 11:33:02 2025 Data insertion from sensor 21 succeeded
+1656 Sat Dec 20 11:33:02 2025 Sensor node 15 reports it's too hot (avg temp = 23.61)
+1657 Sat Dec 20 11:33:02 2025 Data insertion from sensor 15 succeeded
+1658 Sat Dec 20 11:33:03 2025 Sensor node 37 reports it's too hot (avg temp = 20.99)
+1659 Sat Dec 20 11:33:03 2025 Data insertion from sensor 37 succeeded
+1660 Sat Dec 20 11:33:03 2025 Data insertion from sensor 15 succeeded
+1661 Sat Dec 20 11:33:03 2025 Sensor node 15 reports it's too hot (avg temp = 23.57)
+1662 Sat Dec 20 11:33:04 2025 Data insertion from sensor 15 succeeded
+1663 Sat Dec 20 11:33:04 2025 Sensor node 15 reports it's too hot (avg temp = 23.60)
+1664 Sat Dec 20 11:33:05 2025 Data insertion from sensor 21 succeeded
+1665 Sat Dec 20 11:33:05 2025 Sensor node 21 reports it's too hot (avg temp = 22.97)
+1666 Sat Dec 20 11:33:05 2025 Sensor node 37 reports it's too hot (avg temp = 20.86)
+1667 Sat Dec 20 11:33:05 2025 Data insertion from sensor 37 succeeded
+1668 Sat Dec 20 11:33:05 2025 Sensor node 15 reports it's too hot (avg temp = 23.63)
+1669 Sat Dec 20 11:33:05 2025 Data insertion from sensor 15 succeeded
+1670 Sat Dec 20 11:33:06 2025 Sensor node 15 reports it's too hot (avg temp = 23.72)
+1671 Sat Dec 20 11:33:06 2025 Data insertion from sensor 15 succeeded
+1672 Sat Dec 20 11:33:07 2025 Data insertion from sensor 37 succeeded
+1673 Sat Dec 20 11:33:07 2025 Sensor node 37 reports it's too hot (avg temp = 20.72)
+1674 Sat Dec 20 11:33:07 2025 Data insertion from sensor 15 succeeded
+1675 Sat Dec 20 11:33:07 2025 Sensor node 15 reports it's too hot (avg temp = 23.89)
+1676 Sat Dec 20 11:33:08 2025 Sensor node 21 reports it's too hot (avg temp = 23.00)
+1677 Sat Dec 20 11:33:08 2025 Data insertion from sensor 21 succeeded
+1678 Sat Dec 20 11:33:08 2025 Sensor node 15 reports it's too hot (avg temp = 24.05)
+1679 Sat Dec 20 11:33:08 2025 Data insertion from sensor 15 succeeded
+1680 Sat Dec 20 11:33:09 2025 Sensor node 37 reports it's too hot (avg temp = 20.65)
+1681 Sat Dec 20 11:33:09 2025 Data insertion from sensor 37 succeeded
+1682 Sat Dec 20 11:33:09 2025 Data insertion from sensor 15 succeeded
+1683 Sat Dec 20 11:33:09 2025 Sensor node 15 reports it's too hot (avg temp = 24.18)
+1684 Sat Dec 20 11:33:10 2025 Sensor node 15 reports it's too hot (avg temp = 24.24)
+1685 Sat Dec 20 11:33:10 2025 Data insertion from sensor 15 succeeded
+1686 Sat Dec 20 11:33:11 2025 Sensor node 21 reports it's too hot (avg temp = 23.01)
+1687 Sat Dec 20 11:33:11 2025 Data insertion from sensor 21 succeeded
+1688 Sat Dec 20 11:33:11 2025 Sensor node 37 reports it's too hot (avg temp = 20.66)
+1689 Sat Dec 20 11:33:11 2025 Data insertion from sensor 37 succeeded
+1690 Sat Dec 20 11:33:11 2025 Sensor node 15 reports it's too hot (avg temp = 24.25)
+1691 Sat Dec 20 11:33:11 2025 Data insertion from sensor 15 succeeded
+1692 Sat Dec 20 11:33:12 2025 Sensor node 15 reports it's too hot (avg temp = 24.17)
+1693 Sat Dec 20 11:33:12 2025 Data insertion from sensor 15 succeeded
+1694 Sat Dec 20 11:33:13 2025 Sensor node 37 reports it's too hot (avg temp = 20.71)
+1695 Sat Dec 20 11:33:13 2025 Data insertion from sensor 37 succeeded
+1696 Sat Dec 20 11:33:13 2025 Sensor node 15 reports it's too hot (avg temp = 24.03)
+1697 Sat Dec 20 11:33:13 2025 Data insertion from sensor 15 succeeded
+1698 Sat Dec 20 11:33:14 2025 Sensor node 21 reports it's too hot (avg temp = 23.01)
+1699 Sat Dec 20 11:33:14 2025 Data insertion from sensor 21 succeeded
+1700 Sat Dec 20 11:33:14 2025 Sensor node 15 reports it's too hot (avg temp = 23.94)
+1701 Sat Dec 20 11:33:14 2025 Data insertion from sensor 15 succeeded
+1702 Sat Dec 20 11:33:15 2025 Sensor node 37 reports it's too hot (avg temp = 20.72)
+1703 Sat Dec 20 11:33:15 2025 Data insertion from sensor 37 succeeded
+1704 Sat Dec 20 11:33:15 2025 Sensor node 15 reports it's too hot (avg temp = 23.85)
+1705 Sat Dec 20 11:33:15 2025 Data insertion from sensor 15 succeeded
+1706 Sat Dec 20 11:33:16 2025 Sensor node 15 reports it's too hot (avg temp = 23.75)
+1707 Sat Dec 20 11:33:16 2025 Data insertion from sensor 15 succeeded
+1708 Sat Dec 20 11:33:17 2025 Sensor node 21 reports it's too hot (avg temp = 22.96)
+1709 Sat Dec 20 11:33:17 2025 Data insertion from sensor 21 succeeded
+1710 Sat Dec 20 11:33:17 2025 Sensor node 37 reports it's too hot (avg temp = 20.76)
+1711 Sat Dec 20 11:33:17 2025 Data insertion from sensor 37 succeeded
+1712 Sat Dec 20 11:33:17 2025 Sensor node 15 reports it's too hot (avg temp = 23.71)
+1713 Sat Dec 20 11:33:17 2025 Data insertion from sensor 15 succeeded
+1714 Sat Dec 20 11:33:18 2025 Sensor node 15 reports it's too hot (avg temp = 23.74)
+1715 Sat Dec 20 11:33:18 2025 Data insertion from sensor 15 succeeded
+1716 Sat Dec 20 11:33:19 2025 Sensor node 37 reports it's too hot (avg temp = 20.72)
+1717 Sat Dec 20 11:33:19 2025 Data insertion from sensor 37 succeeded
+1718 Sat Dec 20 11:33:19 2025 Data insertion from sensor 15 succeeded
+1719 Sat Dec 20 11:33:19 2025 Sensor node 15 reports it's too hot (avg temp = 23.70)
+1720 Sat Dec 20 11:33:20 2025 Sensor node 21 reports it's too hot (avg temp = 22.88)
+1721 Sat Dec 20 11:33:20 2025 Data insertion from sensor 21 succeeded
+1722 Sat Dec 20 11:33:20 2025 Sensor node 15 reports it's too hot (avg temp = 23.72)
+1723 Sat Dec 20 11:33:20 2025 Data insertion from sensor 15 succeeded
+1724 Sat Dec 20 11:33:21 2025 Sensor node 37 reports it's too hot (avg temp = 20.61)
+1725 Sat Dec 20 11:33:21 2025 Data insertion from sensor 37 succeeded
+1726 Sat Dec 20 11:33:21 2025 Sensor node 15 reports it's too hot (avg temp = 23.79)
+1727 Sat Dec 20 11:33:21 2025 Data insertion from sensor 15 succeeded
+1728 Sat Dec 20 11:33:22 2025 Sensor node 15 reports it's too hot (avg temp = 23.83)
+1729 Sat Dec 20 11:33:22 2025 Data insertion from sensor 15 succeeded
+1730 Sat Dec 20 11:33:23 2025 Sensor node 21 reports it's too hot (avg temp = 22.80)
+1731 Sat Dec 20 11:33:23 2025 Data insertion from sensor 21 succeeded
+1732 Sat Dec 20 11:33:23 2025 Sensor node 37 reports it's too hot (avg temp = 20.54)
+1733 Sat Dec 20 11:33:23 2025 Data insertion from sensor 37 succeeded
+1734 Sat Dec 20 11:33:23 2025 Sensor node 15 reports it's too hot (avg temp = 23.88)
+1735 Sat Dec 20 11:33:23 2025 Data insertion from sensor 15 succeeded
+1736 Sat Dec 20 11:33:24 2025 Sensor node 15 reports it's too hot (avg temp = 23.95)
+1737 Sat Dec 20 11:33:24 2025 Data insertion from sensor 15 succeeded
+1738 Sat Dec 20 11:33:25 2025 Sensor node 37 reports it's too hot (avg temp = 20.50)
+1739 Sat Dec 20 11:33:25 2025 Data insertion from sensor 37 succeeded
+1740 Sat Dec 20 11:33:25 2025 Data insertion from sensor 15 succeeded
+1741 Sat Dec 20 11:33:25 2025 Sensor node 15 reports it's too hot (avg temp = 23.96)
+1742 Sat Dec 20 11:33:26 2025 Sensor node 21 reports it's too hot (avg temp = 22.71)
+1743 Sat Dec 20 11:33:26 2025 Data insertion from sensor 21 succeeded
+1744 Sat Dec 20 11:33:26 2025 Data insertion from sensor 15 succeeded
+1745 Sat Dec 20 11:33:26 2025 Sensor node 15 reports it's too hot (avg temp = 23.91)
+1746 Sat Dec 20 11:33:27 2025 Data insertion from sensor 37 succeeded
+1747 Sat Dec 20 11:33:27 2025 Sensor node 37 reports it's too hot (avg temp = 20.48)
+1748 Sat Dec 20 11:33:27 2025 Sensor node 15 reports it's too hot (avg temp = 23.85)
+1749 Sat Dec 20 11:33:27 2025 Data insertion from sensor 15 succeeded
+1750 Sat Dec 20 11:33:28 2025 Sensor node 15 reports it's too hot (avg temp = 23.76)
+1751 Sat Dec 20 11:33:28 2025 Data insertion from sensor 15 succeeded
+1752 Sat Dec 20 11:33:29 2025 Sensor node 21 reports it's too hot (avg temp = 22.58)
+1753 Sat Dec 20 11:33:29 2025 Data insertion from sensor 21 succeeded
+1754 Sat Dec 20 11:33:29 2025 Sensor node 37 reports it's too hot (avg temp = 20.51)
+1755 Sat Dec 20 11:33:29 2025 Data insertion from sensor 37 succeeded
+1756 Sat Dec 20 11:33:29 2025 Data insertion from sensor 15 succeeded
+1757 Sat Dec 20 11:33:29 2025 Sensor node 15 reports it's too hot (avg temp = 23.65)
+1758 Sat Dec 20 11:33:30 2025 Data insertion from sensor 15 succeeded
+1759 Sat Dec 20 11:33:30 2025 Sensor node 15 reports it's too hot (avg temp = 23.53)
+1760 Sat Dec 20 11:33:31 2025 Sensor node 37 reports it's too hot (avg temp = 20.58)
+1761 Sat Dec 20 11:33:31 2025 Data insertion from sensor 37 succeeded
+1762 Sat Dec 20 11:33:31 2025 Sensor node 15 reports it's too hot (avg temp = 23.49)
+1763 Sat Dec 20 11:33:31 2025 Data insertion from sensor 15 succeeded
+1764 Sat Dec 20 11:33:32 2025 Data insertion from sensor 21 succeeded
+1765 Sat Dec 20 11:33:32 2025 Sensor node 21 reports it's too hot (avg temp = 22.48)
+1766 Sat Dec 20 11:33:32 2025 Sensor node 15 reports it's too hot (avg temp = 23.49)
+1767 Sat Dec 20 11:33:32 2025 Data insertion from sensor 15 succeeded
+1768 Sat Dec 20 11:33:33 2025 Sensor node 37 reports it's too hot (avg temp = 20.62)
+1769 Sat Dec 20 11:33:33 2025 Data insertion from sensor 37 succeeded
+1770 Sat Dec 20 11:33:33 2025 Sensor node 15 reports it's too hot (avg temp = 23.52)
+1771 Sat Dec 20 11:33:33 2025 Data insertion from sensor 15 succeeded
+1772 Sat Dec 20 11:33:34 2025 Sensor node 15 reports it's too hot (avg temp = 23.53)
+1773 Sat Dec 20 11:33:34 2025 Data insertion from sensor 15 succeeded
+1774 Sat Dec 20 11:33:35 2025 Data insertion from sensor 21 succeeded
+1775 Sat Dec 20 11:33:35 2025 Sensor node 21 reports it's too hot (avg temp = 22.41)
+1776 Sat Dec 20 11:33:35 2025 Sensor node 37 reports it's too hot (avg temp = 20.61)
+1777 Sat Dec 20 11:33:35 2025 Data insertion from sensor 37 succeeded
+1778 Sat Dec 20 11:33:35 2025 Data insertion from sensor 15 succeeded
+1779 Sat Dec 20 11:33:35 2025 Sensor node 15 reports it's too hot (avg temp = 23.56)
+1780 Sat Dec 20 11:33:36 2025 Sensor node 15 reports it's too hot (avg temp = 23.52)
+1781 Sat Dec 20 11:33:36 2025 Data insertion from sensor 15 succeeded
+1782 Sat Dec 20 11:33:37 2025 Sensor node 37 reports it's too hot (avg temp = 20.61)
+1783 Sat Dec 20 11:33:37 2025 Data insertion from sensor 37 succeeded
+1784 Sat Dec 20 11:33:37 2025 Data insertion from sensor 15 succeeded
+1785 Sat Dec 20 11:33:37 2025 Sensor node 15 reports it's too hot (avg temp = 23.48)
+1786 Sat Dec 20 11:33:38 2025 Sensor node 21 reports it's too hot (avg temp = 22.32)
+1787 Sat Dec 20 11:33:38 2025 Data insertion from sensor 21 succeeded
