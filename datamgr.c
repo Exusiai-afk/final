@@ -7,7 +7,6 @@
 
 #include "datamgr.h"
 #include "lib/dplist.h"
-#include "logger.h"
 #include "config.h"
 
 #ifndef SET_MIN_TEMP

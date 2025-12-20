@@ -35,7 +35,7 @@ void *storage_mgr_run(void *arg) {
         snprintf(log_msg, sizeof(log_msg), "Data insertion from sensor %d succeeded", data.id);
         write_to_log_process(log_msg);
     }
-    
+
     fclose(csv_file);
 
     write_to_log_process("The data.csv file has been closed");

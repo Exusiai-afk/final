@@ -9,7 +9,6 @@
 #include "connmgr.h"
 #include "lib/tcpsock.h"
 #include "config.h"
-#include "logger.h"
 
 #ifndef TIMEOUT
 #define TIMEOUT 5
