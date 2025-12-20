@@ -129,7 +129,7 @@ int main(int argc, char *argv[]) {
 
     pthread_join(datamgr_thread, NULL);
     pthread_join(storagemgr_thread, NULL);
-    
+
     sbuffer_free(&sbuf);
     end_log_process();
 
